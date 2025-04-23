@@ -25,8 +25,8 @@
       "description": "An ultra rare item from Season 1.",
       "name_color": "FFD700",
       "background_color": "1a1a1a",
-      "icon_url": "https://google.com/icon_small.png",
-      "icon_url_large": "https://google.com/icon_large.png",
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1001small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1001large.png",
       "marketable": true,
       "tradable": true,
       "tags": [
