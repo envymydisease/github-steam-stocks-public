@@ -1,0 +1,206 @@
+{
+  "appid": 3688790,
+  "items": [
+    {
+      "itemdefid": 1,
+      "type": "playtimegenerator",
+      "bundle": "1001x4;1002x6;1003x12;1004x16;1005x8;1006x10;1007x20;1008x24",
+      "name": "Time Drop Generator",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "item_slot": "generator",
+      "icon_url": "https://google.com/icon_small.png",
+      "icon_url_large": "https://google.com/icon_large.png",
+      "tradable": false,
+      "marketable": false,
+      "use_drop_window": true,
+      "drop_window": 1440,
+      "drop_max_per_window": 12,
+      "drop_interval": 120
+    },
+    {
+      "itemdefid": 1001,
+      "type": "item",
+      "name": "Season 1 - S Tier Item",
+      "description": "An ultra rare item from Season 1.",
+      "name_color": "FFD700",
+      "background_color": "1a1a1a",
+      "icon_url": "https://google.com/icon_small.png",
+      "icon_url_large": "https://google.com/icon_large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "1"
+        },
+        {
+          "tag": "tier",
+          "value": "S"
+        }
+      ],
+      "store_tags": "season_1;tier_S"
+    },
+    {
+      "itemdefid": 1002,
+      "type": "item",
+      "name": "Season 1 - A Tier Item",
+      "description": "A rare item from Season 1.",
+      "name_color": "C0C0C0",
+      "background_color": "2a2a2a",
+      "icon_url": "https://google.com/icon_small.png",
+      "icon_url_large": "https://google.com/icon_large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "1"
+        },
+        {
+          "tag": "tier",
+          "value": "A"
+        }
+      ],
+      "store_tags": "season_1;tier_A"
+    },
+    {
+      "itemdefid": 1003,
+      "type": "item",
+      "name": "Season 1 - B Tier Item",
+      "description": "A decent item from Season 1.",
+      "name_color": "8FBC8F",
+      "background_color": "333333",
+      "icon_url": "https://google.com/icon_small.png",
+      "icon_url_large": "https://google.com/icon_large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "1"
+        },
+        {
+          "tag": "tier",
+          "value": "B"
+        }
+      ],
+      "store_tags": "season_1;tier_B"
+    },
+    {
+      "itemdefid": 1004,
+      "type": "item",
+      "name": "Season 1 - C Tier Item",
+      "description": "A common item from Season 1.",
+      "name_color": "A9A9A9",
+      "background_color": "444444",
+      "icon_url": "https://google.com/icon_small.png",
+      "icon_url_large": "https://google.com/icon_large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "1"
+        },
+        {
+          "tag": "tier",
+          "value": "C"
+        }
+      ],
+      "store_tags": "season_1;tier_C"
+    },
+    {
+      "itemdefid": 1005,
+      "type": "item",
+      "name": "Season 2 - S Tier Item",
+      "description": "An ultra rare item from Season 2.",
+      "name_color": "FFD700",
+      "background_color": "1a1a1a",
+      "icon_url": "https://google.com/icon_small.png",
+      "icon_url_large": "https://google.com/icon_large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "2"
+        },
+        {
+          "tag": "tier",
+          "value": "S"
+        }
+      ],
+      "store_tags": "season_2;tier_S"
+    },
+    {
+      "itemdefid": 1006,
+      "type": "item",
+      "name": "Season 2 - A Tier Item",
+      "description": "A rare item from Season 2.",
+      "name_color": "C0C0C0",
+      "background_color": "2a2a2a",
+      "icon_url": "https://google.com/icon_small.png",
+      "icon_url_large": "https://google.com/icon_large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "2"
+        },
+        {
+          "tag": "tier",
+          "value": "A"
+        }
+      ],
+      "store_tags": "season_2;tier_A"
+    },
+    {
+      "itemdefid": 1007,
+      "type": "item",
+      "name": "Season 2 - B Tier Item",
+      "description": "A decent item from Season 2.",
+      "name_color": "8FBC8F",
+      "background_color": "333333",
+      "icon_url": "https://google.com/icon_small.png",
+      "icon_url_large": "https://google.com/icon_large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "2"
+        },
+        {
+          "tag": "tier",
+          "value": "B"
+        }
+      ],
+      "store_tags": "season_2;tier_B"
+    },
+    {
+      "itemdefid": 1008,
+      "type": "item",
+      "name": "Season 2 - C Tier Item",
+      "description": "A common item from Season 2.",
+      "name_color": "A9A9A9",
+      "background_color": "444444",
+      "icon_url": "https://google.com/icon_small.png",
+      "icon_url_large": "https://google.com/icon_large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "2"
+        },
+        {
+          "tag": "tier",
+          "value": "C"
+        }
+      ],
+      "store_tags": "season_2;tier_C"
+    }
+  ]
+}
