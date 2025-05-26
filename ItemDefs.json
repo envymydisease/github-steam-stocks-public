@@ -71,6 +71,32 @@
       "store_tags": "season_1;type_case"
     },
     {
+      "itemdefid": 2,
+      "type": "item",
+      "name": "X Case",
+      "description_english": "[color=#B0C3D9]X Case[/color]\n\nContains a set of ten random stocks from the corresponding collection:\n[color=#FFD700]Qualcum[/color]\n[color=#EB4B4B]Nvimia[/color]\n[color=#D32CE6]AMxD[/color]\n[color=#8847FF]Indel[/color]\n[color=#4B69FF]Eastern Digital\n\n[color=#B0C3D9]Season 2 Case[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_schinese": "[color=#B0C3D9]X Case[/color]\n\n内含十个来自对应系列的随机股票：\n[color=#FFD700]Qualcum[/color]\n[color=#EB4B4B]Nvimia[/color]\n[color=#D32CE6]AMxD[/color]\n[color=#8847FF]Indel[/color]\n[color=#4B69FF]Eastern Digital[/color]\n\n[color=#B0C3D9]Season 2 Case[/color]\n\n[i]所有公司和标志均为虚构。任何与真实实体的相似之处均属巧合或讽刺。[/i]",
+      "description_russian": "[color=#B0C3D9]X Case[/color]\n\nВнутри находится набор из десяти слуайных акций соответсвующей коллекции:\n[color=#FFD700]Qualcum[/color]\n[color=#EB4B4B]Nvimia[/color]\n[color=#D32CE6]AMxD[/color]\n[color=#8847FF]Indel[/color]\n[color=#4B69FF]Eastern Digital[/color]\n\n[color=#B0C3D9]Season 2 Case[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_spanish": "[color=#B0C3D9]X Case[/color]\n\nContiene un conjunto de diez acciones aleatorias de la colección correspondiente:\n[color=#FFD700]Qualcum[/color]\n[color=#EB4B4B]Nvimia[/color]\n[color=#D32CE6]AMxD[/color]\n[color=#8847FF]Indel[/color]\n[color=#4B69FF]Eastern Digital[/color]\n\n[color=#B0C3D9]Season 2 Case[/color]\n\n[i]Todas las empresas y logotipos mostrados son ficticios. Cualquier parecido con entidades reales es pura coincidencia o sátira.[/i]",
+      "name_color": "B0C3D9",
+      "background_color": "2C3E50",
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/2small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/2large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "2"
+        },
+        {
+          "tag": "type",
+          "value": "case"
+        }
+      ],
+      "store_tags": "season_2;type_case"
+    },
+    {
       "itemdefid": 1001,
       "type": "item",
       "name": "Qualcum",
@@ -194,10 +220,10 @@
       "itemdefid": 1005,
       "type": "item",
       "name": "Eastern Digital",
-      "description_english": "[color=#4B69FF]D Tier[/color]\n\nEastern Digital – redefining what ‘digital’ even means, one corrupted file at a time.\n\n[color=#FFD700]Season 1 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
-      "description_russian": "[color=#4B69FF]D Tier[/color]\n\nEastern Digital — переосмысливаем, что вообще значит «цифровое», по одному битому файлу за раз.\n\n[color=#FFD700]Season 1 Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любые совпадения с реальными — случайны или сатиричны.[/i]",
-      "description_chinese": "[color=#4B69FF]D Tier[/color]\n\nEastern Digital —— 一次一个损坏文件，重新定义“数字化”的含义。\n\n[color=#FFD700]Season 1 Item[/color]\n\n[i]所有展示的公司和标志均为虚构。若与现实实体相似，纯属巧合或讽刺。[/i]",
-      "description_spanish": "[color=#4B69FF]D Tier[/color]\n\nEastern Digital: redefiniendo lo que significa ‘digital’, un archivo dañado a la vez.\n\n[color=#FFD700]Season 1 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es coincidencia o sátira.[/i]",
+      "description_english": "[color=#4B69FF]D Tier[/color]\n\nEastern Digital – redefining what ‘digital’ even means, one corrupted file at a time.\n\n[color=#FFD700]Season 2 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#4B69FF]D Tier[/color]\n\nEastern Digital — переосмысливаем, что вообще значит «цифровое», по одному битому файлу за раз.\n\n[color=#FFD700]Season 2 Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любые совпадения с реальными — случайны или сатиричны.[/i]",
+      "description_chinese": "[color=#4B69FF]D Tier[/color]\n\nEastern Digital —— 一次一个损坏文件，重新定义“数字化”的含义。\n\n[color=#FFD700]Season 2 Item[/color]\n\n[i]所有展示的公司和标志均为虚构。若与现实实体相似，纯属巧合或讽刺。[/i]",
+      "description_spanish": "[color=#4B69FF]D Tier[/color]\n\nEastern Digital: redefiniendo lo que significa ‘digital’, un archivo dañado a la vez.\n\n[color=#FFD700]Season 2 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es coincidencia o sátira.[/i]",
       "name_color": "4B69FF",
       "background_color": "1C2A3E",
       "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1005small.png",
@@ -207,7 +233,7 @@
       "tags": [
         {
           "tag": "season",
-          "value": "1"
+          "value": "2"
         },
         {
           "tag": "tier",
@@ -218,7 +244,157 @@
           "value": "item"
         }
       ],
-      "store_tags": "season_1;tier_D;type_item"
+      "store_tags": "season_2;tier_D;type_item"
+    },
+    {
+      "itemdefid": 1006,
+      "type": "item",
+      "name": "Porsheek",
+      "description_english": "[color=#FFD700]S Tier[/color]\n\nThe pinnacle of performance—where every engine roar is a celebration of speed.\n\n[color=#FFD700]Season 2 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_spanish": "[color=#FFD700]S Tier[/color]\n\nLa cumbre del rendimiento; cada aceleración es una celebración de la velocidad.\n\n[color=#FFD700]Season 2 Item[/color]\n\n[i]Todas las empresas y logotipos mostrados son ficticios. Cualquier parecido con entidades reales es pura coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#FFD700]S Tier[/color]\n\n性能的巅峰——每一次引擎轰鸣都是对速度的礼赞。\n\n[color=#FFD700]Season 2 Item[/color]\n\n[i]所有公司和标志均为虚构。任何与真实实体的相似之处均属巧合或讽刺。[/i]",
+      "description_russian": "[color=#FFD700]S Tier[/color]\n\nВершина производительности — здесь каждый рёв мотора превращается в праздник скорости.\n\n[color=#FFD700]Season 2 Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "name_color": "FFD700",
+      "background_color": "3B2F1B",
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1006small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1006large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "2"
+        },
+        {
+          "tag": "tier",
+          "value": "S"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_2;tier_S;type_item"
+    },
+    {
+      "itemdefid": 1007,
+      "type": "item",
+      "name": "Audee",
+      "description_english": "[color=#EB4B4B]A Tier[/color]\n\nSpeed you’ll chase… and fine you’ll regret.\n\n[color=#FFD700]Season 2 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_spanish": "[color=#EB4B4B]A Tier[/color]\n\nLa velocidad que perseguirás... y las multas de las que te arrepentirás.\n\n[color=#FFD700]Season 2 Item[/color]\n\n[i]Todas las empresas y logotipos mostrados son ficticios. Cualquier parecido con entidades reales es pura coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#EB4B4B]A Tier[/color]\n\n你追逐的速度。还有你会后悔的罚款。\n\n[color=#FFD700]Season 2 Item[/color]\n\n[i]所有公司和标志均为虚构。任何与真实实体的相似之处均属巧合或讽刺。[/i]",
+      "description_russian": "[color=#EB4B4B]A Tier[/color]\n\nСкорость, за которой с которой вы едите… и штрафы, о которых пожалеете.\n\n[color=#FFD700]Season 2 Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "name_color": "EB4B4B",
+      "background_color": "3F1E25",
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1007small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1007large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "2"
+        },
+        {
+          "tag": "tier",
+          "value": "A"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_2;tier_A;type_item"
+    },
+    {
+      "itemdefid": 1008,
+      "type": "item",
+      "name": "Mercedaze",
+      "description_english": "[color=#D32CE6]B Tier[/color]\n\nPremium ride - just don’t look at the service bill waiting at the next corner.\n\n[color=#FFD700]Season 2 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#D32CE6]B Tier[/color]\n\nПремиальная поездка — просто не смотрите на счёт за сервис в следующем повороте.\n\n[color=#FFD700]Season 2 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_spanish": "[color=#D32CE6]B Tier[/color]\n\nViaje premium, solo evita mirar la factura del taller esperando en la próxima esquina.\n\n[color=#FFD700]Season 2 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es pura coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#D32CE6]B Tier[/color]\n\n尊享之旅——只是别去看下一个路口等待你的维修账单。\n\n[color=#FFD700]Season 2 Item[/color]\n\n[i]所有公司和标志均为虚构。任何与真实实体的相似之处均属巧合或讽刺。[/i]",
+      "name_color": "D32CE6",
+      "background_color": "3A2133",
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1008small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1008large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "2"
+        },
+        {
+          "tag": "tier",
+          "value": "B"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_2;tier_B;type_item"
+    },
+    {
+      "itemdefid": 1009,
+      "type": "item",
+      "name": "BeeMW",
+      "description_english": "[color=#8847FF]C Tier[/color]\n\nEngineered performance - now monetized comfort. Seat-heat subscription sold separately.\n\n[color=#FFD700]Season 2 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#8847FF]C Tier[/color]\n\nИнженерная производительность — теперь монетизированный комфорт. Подписка на подогрев сидений продаётся отдельно.\n\n[color=#FFD700]Season 2 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_spanish": "[color=#8847FF]C Tier[/color]\n\nRendimiento diseñado, ahora confort monetizado. Suscripción de asientos calefactables se vende por separado.\n\n[color=#FFD700]Season 2 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es pura coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#8847FF]C Tier[/color]\n\n工程化性能——现在是货币化的舒适体验。座椅加热订阅需另行购买。\n\n[color=#FFD700]Season 2 Item[/color]\n\n[i]所有公司和标志均为虚构。任何与真实实体的相似之处均属巧合或讽刺。[/i]",
+      "name_color": "8847FF",
+      "background_color": "2D1E42",
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1009small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1009large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "2"
+        },
+        {
+          "tag": "tier",
+          "value": "C"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_2;tier_C;type_item"
+    },
+    {
+      "itemdefid": 1010,
+      "type": "item",
+      "name": "Teslo",
+      "description_english": "[color=#4B69FF]D Tier[/color]\n\nAutopilot engaged, common sense disengaged.\n\n[color=#FFD700]Season 2 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#4B69FF]D Tier[/color]\n\nАвтопилот включён, здравый смысл отключён.\n\n[color=#FFD700]Season 2 Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любые совпадения с реальными — случайны или сатиричны.[/i]",
+      "description_chinese": "[color=#4B69FF]D Tier[/color]\n\n自动驾驶已开启，常识已停用。\n\n[color=#FFD700]Season 2 Item[/color]\n\n[i]所有展示的公司和标志均为虚构。若与现实实体相似，纯属巧合或讽刺。[/i]",
+      "description_spanish": "[color=#4B69FF]D Tier[/color]\n\nPiloto automático activado, sentido común desactivado.\n\n[color=#FFD700]Season 2 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es coincidencia o sátira.[/i]",
+      "name_color": "4B69FF",
+      "background_color": "1C2A3E",
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1010small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1010large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "2"
+        },
+        {
+          "tag": "tier",
+          "value": "D"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_2;tier_D;type_item"
     }
   ]
 }
