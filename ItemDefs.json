@@ -2,7 +2,7 @@
   "appid": 3688790,
   "items": [
     {
-      "itemdefid": 0,
+      "itemdefid": 1000,
       "type": "playtimegenerator",
       "bundle": "1x2;2x8;1001x5;1002x25;1003x55;1004x75;1005x95;1006x8;1007x25;1008x75;1006x95;1007x240;1008x300",
       "name": "Time Drop Generator",
@@ -17,6 +17,17 @@
       "drop_window": 1440,
       "drop_max_per_window": 12,
       "drop_interval": 120
+    },
+    {
+      "itemdefid": 999,
+      "type": "item",
+      "name": "Test Item",
+      "name_color": "7D6D00",
+      "background_color": "3C352E",
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/999small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/999large.png",
+      "tradable": true,
+      "marketable": true,
     },
     {
       "itemdefid": 1,
