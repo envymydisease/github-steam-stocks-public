@@ -22,21 +22,36 @@
       "itemdefid": 999,
       "type": "item",
       "name": "Test Item",
+      "description_english": "Test Description",
+      "description_schinese": "Test Description",
+      "description_russian": "Test Description",
+      "description_spanish": "Test Description",
       "name_color": "7D6D00",
       "background_color": "3C352E",
       "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/999small.png",
       "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/999large.png",
       "tradable": true,
       "marketable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "0"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_0;type_item"
     },
     {
       "itemdefid": 1,
       "type": "item",
       "name": "Silicon Valley Case",
-      "description_english": "[color=#B0C3D9]Silicon Valley Case[/color]\n\nContains 10 random items from Season 1:\n\n[color=#FFD700]Qualcum[/color]\n\n[color=#EB4B4B]Nvimia[/color]\n\n[color=#D32CE6]AMxD[/color]\n\n[color=#8847FF]Indel[/color]\n\n[color=#4B69FF]Eastern Digital\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
-      "description_schinese": "[color=#B0C3D9]Silicon Valley Case[/color]\n\n包含来自第1赛季的10个随机物品：\n\n[color=#FFD700]Qualcum[/color]\n\n[color=#EB4B4B]Nvimia[/color]\n\n[color=#D32CE6]AMxD[/color]\n\n[color=#8847FF]Indel[/color]\n\n[color=#4B69FF]Eastern Digital[/color]\n\n[i]所有公司和标志均为虚构。任何与真实实体的相似之处均属巧合或讽刺。[/i]",
-      "description_russian": "[color=#B0C3D9]Silicon Valley Case[/color]\n\nСодержит 10 случайных предметов из Сезона 1:\n\n[color=#FFD700]Qualcum[/color]\n\n[color=#EB4B4B]Nvimia[/color]\n\n[color=#D32CE6]AMxD[/color]\n\n[color=#8847FF]Indel[/color]\n\n[color=#4B69FF]Eastern Digital[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
-      "description_spanish": "[color=#B0C3D9]Silicon Valley Case[/color]\n\nContiene 10 objetos aleatorios de la Temporada 1:\n\n[color=#FFD700]Qualcum[/color]\n\n[color=#EB4B4B]Nvimia[/color]\n\n[color=#D32CE6]AMxD[/color]\n\n[color=#8847FF]Indel[/color]\n\n[color=#4B69FF]Eastern Digital[/color]\n\n[i]Todas las empresas y logotipos mostrados son ficticios. Cualquier parecido con entidades reales es pura coincidencia o sátira.[/i]",
+      "description_english": "[color=#B0C3D9]Silicon Valley Case[/color]\n\nContains a set of ten random stocks from the corresponding collection:\n[color=#FFD700]Qualcum[/color]\n[color=#EB4B4B]Nvimia[/color]\n[color=#D32CE6]AMxD[/color]\n[color=#8847FF]Indel[/color]\n[color=#4B69FF]Eastern Digital\n\n[color=#B0C3D9]Season 1 Case[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_schinese": "[color=#B0C3D9]Silicon Valley Case[/color]\n\n内含十个来自对应系列的随机股票：\n[color=#FFD700]Qualcum[/color]\n[color=#EB4B4B]Nvimia[/color]\n[color=#D32CE6]AMxD[/color]\n[color=#8847FF]Indel[/color]\n[color=#4B69FF]Eastern Digital[/color]\n\n[color=#B0C3D9]Season 1 Case[/color]\n\n[i]所有公司和标志均为虚构。任何与真实实体的相似之处均属巧合或讽刺。[/i]",
+      "description_russian": "[color=#B0C3D9]Silicon Valley Case[/color]\n\nВнутри находится набор из десяти слуайных акций соответсвующей коллекции:\n[color=#FFD700]Qualcum[/color]\n[color=#EB4B4B]Nvimia[/color]\n[color=#D32CE6]AMxD[/color]\n[color=#8847FF]Indel[/color]\n[color=#4B69FF]Eastern Digital[/color]\n\n[color=#B0C3D9]Season 1 Case[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_spanish": "[color=#B0C3D9]Silicon Valley Case[/color]\n\nContiene un conjunto de diez acciones aleatorias de la colección correspondiente:\n[color=#FFD700]Qualcum[/color]\n[color=#EB4B4B]Nvimia[/color]\n[color=#D32CE6]AMxD[/color]\n[color=#8847FF]Indel[/color]\n[color=#4B69FF]Eastern Digital[/color]\n\n[color=#B0C3D9]Season 1 Case[/color]\n\n[i]Todas las empresas y logotipos mostrados son ficticios. Cualquier parecido con entidades reales es pura coincidencia o sátira.[/i]",
       "name_color": "B0C3D9",
       "background_color": "2C3E50",
       "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1small.png",
@@ -50,7 +65,7 @@
         },
         {
           "tag": "type",
-          "value": "Case"
+          "value": "case"
         }
       ],
       "store_tags": "season_1;type_case"
@@ -62,7 +77,7 @@
       "description_english": "[color=#FFD700]S Tier[/color]\n\nQualcum сrafting mobile chips that throttle faster than your morning latte buzz.\n\n[color=#FFD700]Season 1 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
       "description_spanish": "[color=#FFD700]S Tier[/color]\n\nQualcum fabrica chips móviles que se ralentizan más rápido que el subidón de tu café matutino.\n\n[color=#FFD700]Season 1 Item[/color]\n\n[i]Todas las empresas y logotipos mostrados son ficticios. Cualquier parecido con entidades reales es pura coincidencia o sátira.[/i]",
       "description_schinese": "[color=#FFD700]S Tier[/color]\n\nQualcum 打造的移动芯片比你早晨的咖啡还要快地过热。\n\n[color=#FFD700]Season 1 Item[/color]\n\n[i]所有公司和标志均为虚构。任何与真实实体的相似之处均属巧合或讽刺。[/i]",
-      "description_russian": "[color=#FFD700]S Tier[/color]\n\nQualcum производит мобильные чипы, которые перегреваются быстрее, чем ваш утренний кофе.\n\n[color=#FFD700]Season 1 Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_russian": "[color=#FFD700]S Tier[/color]\n\nQualcum производят мобильные чипы, которые перегреваются быстрее, чем ваш утренний кофе.\n\n[color=#FFD700]Season 1 Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
       "name_color": "FFD700",
       "background_color": "3B2F1B",
       "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1001small.png",
@@ -180,7 +195,7 @@
       "type": "item",
       "name": "Eastern Digital",
       "description_english": "[color=#4B69FF]D Tier[/color]\n\nEastern Digital – redefining what ‘digital’ even means, one corrupted file at a time.\n\n[color=#FFD700]Season 1 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
-      "description_russian": "[color=#4B69FF]D Tier[/color]\n\nEastern Digital — переосмысляем, что вообще значит «цифровое», по одному битому файлу за раз.\n\n[color=#FFD700]Season 1 Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любые совпадения с реальными — случайны или сатиричны.[/i]",
+      "description_russian": "[color=#4B69FF]D Tier[/color]\n\nEastern Digital — переосмысливаем, что вообще значит «цифровое», по одному битому файлу за раз.\n\n[color=#FFD700]Season 1 Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любые совпадения с реальными — случайны или сатиричны.[/i]",
       "description_chinese": "[color=#4B69FF]D Tier[/color]\n\nEastern Digital —— 一次一个损坏文件，重新定义“数字化”的含义。\n\n[color=#FFD700]Season 1 Item[/color]\n\n[i]所有展示的公司和标志均为虚构。若与现实实体相似，纯属巧合或讽刺。[/i]",
       "description_spanish": "[color=#4B69FF]D Tier[/color]\n\nEastern Digital: redefiniendo lo que significa ‘digital’, un archivo dañado a la vez.\n\n[color=#FFD700]Season 1 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es coincidencia o sátira.[/i]",
       "name_color": "4B69FF",
