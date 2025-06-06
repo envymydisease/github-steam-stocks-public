@@ -43,10 +43,7 @@ For players who enjoy goals and progress, the game features ten achievements tie
 
 Para los jugadores que disfrutan con metas y progreso, el juego incluye diez logros vinculados a diferentes acciones, y está en desarrollo activo. Planeamos interactuar con la comunidad, lanzar nuevos objetos regularmente y organizar eventos temáticos. Únete a nuestro canal oficial de Discord desde el botón del menú principal y mantente al día: ¡sé el primero en conseguir las acciones más raras!
 
----
-
 # Achievements
-
 
 | English                             | Russian                            | Spanish                          | 简体中文 (Simplified Chinese)  | 
 | ----------------------------------- | ---------------------------------- | -------------------------------- | ------------------------------|
@@ -71,6 +68,7 @@ Para los jugadores que disfrutan con metas y progreso, el juego incluye diez log
 | Crack the Case                      | Взломай кейс	                   | Abre el caso                     | 或 破解箱子                     |
 | Open your first stock case          | Откройте свой первый кейс с акциями| Abre tu primer caso de acciones  | 开启你的第一个股票宝箱           |
 
----
+
+# Contact information
 
 stocksgame@yandex.ru
