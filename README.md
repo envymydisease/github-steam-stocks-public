@@ -19,6 +19,8 @@
 плашка уведомления
 анимация открытия кейса
 
+# Description
+
 "Stocks" is a collector simulator where you earn in-game items just by being online. Every hour, you receive one drop — a stylized stock from a fictional company or a seasonal case you can open to acquire 10 random stocks from this season. All items are divided by rarity: S, A, B, C, D. On the first day of each month, a new season begins, and at any time two seasons are active simultaneously. Current seasons and drop chances can be seen on the right in a table. Each new season introduces four unique items. Once a season ends, its items drop less frequently, and items from the older season will never drop again. You can proudly grow your collection or trade for profit on the market. This is more than a clicker — it’s the game version of "sit and farm profit."
 
 For players who enjoy goals and progress, the game features ten achievements tied to various actions, and it is actively being developed. We plan to engage with the community, release new items regularly, and run themed events. Join our official Discord channel via the main menu button and stay updated — be the first to grab the rarest stocks!
