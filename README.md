@@ -43,6 +43,8 @@ Para los jugadores que disfrutan con metas y progreso, el juego incluye diez log
 
 ---
 
+# Achievements
+
 | English                             | Russian                            | Spanish                          | 简体中文 (Simplified Chinese)  | 
 | ----------------------------------- | ---------------------------------- | -------------------------------- | ------------------------------|
 | Welcome Aboard                      | Добро пожаловать!                  | ¡Bienvenido a bordo!             | 欢迎登船！                     |
@@ -68,4 +70,4 @@ Para los jugadores que disfrutan con metas y progreso, el juego incluye diez log
 
 ---
 
-stocksgame@yaandex.ru
+stocksgame@yandex.ru
