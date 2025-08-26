@@ -48,7 +48,7 @@
       "description_spanish": "[color=#8D97D4]AMxD Case[/color]\n\nContiene un conjunto de tres acciones aleatorias de la colección AMxD\n\n[color=#8D97D4]Estuche de la Temporada 1[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
       "name_color": "8D97D4",
       "background_color": "2C3E50",
-      "auto_stack": false,
+      "auto_stack": true,
       "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1small.png",
       "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1large.png",
       "marketable": true,
