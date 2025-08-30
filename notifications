@@ -1,3 +1,3 @@
 $$id=0;active=N;date=2025-08-10;ru="Уведомление на русском";en="Notification in English";es="Notificación en español";zh_cn="简体中文通知书"
-$id=1;active=Y;date=2025-08-30;ru="Баг с открытием кейса будет исправлен в ближайшее время. В случае возникновения перезапустите игру.";en="The bug with opening the case will be fixed soon. If it occurs, please restart the game.";es="El error al abrir el caso se solucionará pronto. Si ocurre, reinicia el juego.";zh_cn="开启箱子时的错误将很快修复。如遇到，请重新启动游戏。"
+$$id=1;active=Y;date=2025-08-30;ru="Баг с открытием кейса будет исправлен в ближайшее время. В случае возникновения перезапустите игру.";en="The bug with opening the case will be fixed soon. If it occurs, please restart the game.";es="El error al abrir el caso se solucionará pronto. Si ocurre, reinicia el juego.";zh_cn="开启箱子时的错误将很快修复。如遇到，请重新启动游戏。"
 
