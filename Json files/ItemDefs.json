@@ -5,11 +5,31 @@
       "itemdefid": 1000,
       "type": "playtimegenerator",
       "name": "Playtime Drop",
-      "bundle": "2x1;3x2;1006x5;1007x20;1008x50;1009x100;1010x200;1011x10;1012x40;1013x100;1014x200;1015x400",
+      "bundle": "3x1;4x2;1011x5;1012x20;1013x50;1014x100;1015x200;1016x10;1017x40;1018x100;1019x200;1020x400",
       "drop_interval": 120,
       "use_drop_window": true,
       "drop_window": 120,
       "drop_max_per_window": 1
+    },
+    {
+      "itemdefid": 100000,
+      "type": "playtimegenerator",
+      "name": "Playtime Drop Test",
+      "bundle": "999x1",
+      "drop_interval": 1515098112,
+      "use_drop_window": true,
+      "drop_window": 1515098112,
+      "drop_max_per_window": 1
+    },
+    {
+      "itemdefid": 10000,
+      "type": "playtimegenerator",
+      "name": "Daily Drop",
+      "drop_interval": 1,
+      "use_drop_window": true,
+      "drop_window": 3,
+      "drop_max_per_window": 1,
+      "bundle": "1016x10;1017x40;1018x100;1019x200;1020x400"
     },
     {
       "itemdefid": 999,
