@@ -5,7 +5,7 @@
       "itemdefid": 1000,
       "type": "playtimegenerator",
       "name": "Playtime Drop",
-      "bundle": "3x1;4x2;1011x5;1012x20;1013x50;1014x100;1015x200;1016x10;1017x40;1018x100;1019x200;1020x400",
+      "bundle": "4x1;5x2;1016x5;1017x20;1018x50;1019x100;1020x200;1021x10;1022x40;1023x100;1024x200;1025x400",
       "drop_interval": 120,
       "use_drop_window": true,
       "drop_window": 120,
