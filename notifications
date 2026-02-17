@@ -3,7 +3,6 @@ $$id=1;active=N;date=2025-08-30;ru="Баг с открытием кейса бу
 $$id=2;active=N;date=2025-09-29;ru="Сезон 3 будет запущен по графику 1 октября примерно в 16:00 по GMT.";en="Season 3 will launch as scheduled on October 1st at approximately 16:00 GMT.";es="La Temporada 3 se lanzará según lo programado el 1 de octubre aproximadamente a las 16:00 GMT.";zh_cn="第3赛季将按计划于10月1日大约16:00（GMT）开启。"
 $$id=3;active=N;date=2025-10-01;ru="Сезон 3 уже начался! Не забудьте обновить игру.";en="Season 3 has already started! Don’t forget to update the game.";es="¡La Temporada 3 ya comenzó! No olvides actualizar el juego.";zh_cn="第3赛季已经开始！别忘了更新游戏。"
 $$id=4;active=N;date=2025-11-01;ru="Сезон 4 уже начался! Не забудьте обновить игру.";en="Season 4 has already started! Don’t forget to update the game.";es="¡La Temporada 4 ya comenzó! No olvides actualizar el juego.";zh_cn="第4赛季已经开始！别忘了更新游戏。"
-$$id=5;active=Y;date=2025-12-01;ru="Сезон 5 уже начался! Не забудьте обновить игру.";en="Season 5 has already started! Don’t forget to update the game.";es="¡La Temporada 5 ya comenzó! No olvides actualizar el juego.";zh_cn="第5赛季已经开始！别忘了更新游戏。"
-$$id=6;active=Y;date=2026-01-01;ru="саня лох";en="Season 5 has already started! Don’t forget to update the game.";es="¡La Temporada 5 ya comenzó! No olvides actualizar el juego.";zh_cn="第5赛季已经开始！别忘了更新游戏。"
-
+$$id=5;active=N;date=2025-12-01;ru="Сезон 5 уже начался! Не забудьте обновить игру.";en="Season 5 has already started! Don’t forget to update the game.";es="¡La Temporada 5 ya comenzó! No olvides actualizar el juego.";zh_cn="第5赛季已经开始！别忘了更新游戏。"
+$$id=5;active=Y;date=2026-02-01;ru="Сезон 6 уже начался! Не забудьте обновить игру.";en="Season 6 has already started! Don’t forget to update the game.";es="¡La Temporada 6 ya comenzó! No olvides actualizar el juego.";zh_cn="第6赛季已经开始！别忘了更新游戏。"
 
