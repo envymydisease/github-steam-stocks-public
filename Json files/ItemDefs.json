@@ -5,7 +5,7 @@
       "itemdefid": 1000,
       "type": "playtimegenerator",
       "name": "Playtime Drop",
-      "bundle": "5x1;6x2;1021x5;1022x20;1023x50;1024x100;1025x200;1026x10;1027x40;1028x100;1029x200;1030x400",
+      "bundle": "101x60;10101x80;10102x80;10103x80;5x4;6x4;1021x4;1022x14;1023x35;1024x70;1025x140;1026x7;1027x28;1028x70;1029x140;1030x280",
       "drop_interval": 120,
       "use_drop_window": true,
       "drop_window": 120,
@@ -13,12 +13,12 @@
     },
     {
       "itemdefid": 100000,
-      "type": "playtimegenerator",
-      "name": "Playtime Drop Test",
-      "bundle": "999x1",
-      "drop_interval": 1515098112,
+      "type": "короче обычный предыдущий, интервал и окно на 120, номер на 1000",
+      "name": "Playtime Drop",
+      "bundle": "5x1;6x2;1021x5;1022x20;1023x50;1024x100;1025x200;1026x10;1027x40;1028x100;1029x200;1030x400",
+      "drop_interval": 120,
       "use_drop_window": true,
-      "drop_window": 1515098112,
+      "drop_window": 120,
       "drop_max_per_window": 1
     },
     {
@@ -223,11 +223,11 @@
     {
       "itemdefid": 101,
       "type": "item",
-      "name": "LNY 2026 - Pack",
-      "description_english": "[color=#FFD84D]LNY 2026 - Pack[/color]\n\nContains a set of three random stocks from the Lunar Year 2026 collection\n\n[color=#FFD84D]Lunar Year 2026 - Pack[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
-      "description_russian": "[color=#FFD84D]LNY 2026 - Pack[/color]\n\nСодержит набор из трёх случайных акций из коллекции Lunar Year 2026\n\n[color=#FFD84D]Lunar Year 2026 - Pack[/color]\n\n[i]Все компании и логотипы вымышлены. Любые совпадения с реальными организациями случайны или сатиричны.[/i]",
-      "description_spanish": "[color=#FFD84D]LNY 2026 - Pack[/color]\n\nContiene un conjunto de tres acciones aleatorias de la colección Lunar Year 2026\n\n[color=#FFD84D]Lunar Year 2026 - Pack[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
-      "description_schinese": "[color=#FFD84D]LNY 2026 - Pack[/color]\n\n包含来自 Lunar Year 2026 系列的三只随机股票\n\n[color=#FFD84D]Lunar Year 2026 - Pack[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "name": "Lunar New Year 2026 - Pack",
+      "description_english": "[color=#FFD84D]Lunar New Year 2026 - Pack[/color]\n\nContains a set of three random stocks from the Lunar New Year 2026 collection\n\n[color=#FFD84D]Lunar New Year 2026 - Pack[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#FFD84D]Lunar New Year 2026 - Pack[/color]\n\nСодержит набор из трёх случайных акций из коллекции Lunar New Year 2026\n\n[color=#FFD84D]Lunar New Year 2026 - Pack[/color]\n\n[i]Все компании и логотипы вымышлены. Любые совпадения с реальными организациями случайны или сатиричны.[/i]",
+      "description_spanish": "[color=#FFD84D]Lunar New Year 2026 - Pack[/color]\n\nContiene un conjunto de tres acciones aleatorias de la colección Lunar New Year 2026\n\n[color=#FFD84D]Lunar New Year 2026 - Pack[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#FFD84D]Lunar New Year 2026 - Pack[/color]\n\n包含来自 Lunar New Year 2026 系列的三只随机股票\n\n[color=#FFD84D]Lunar New Year 2026 - Pack[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
       "name_color": "FFD84D",
       "background_color": "5A1E1E",
       "auto_stack": true,
@@ -255,10 +255,10 @@
       "name_russian": "Веер",
       "name_spanish": "Abanico",
       "name_schinese": "折扇",
-      "description_english": "[color=#FFD84D]EX Tier[/color]\n\nCelebrate Lunar New Year with this exclusive collectible.\nLimited to the LNY 2026 event.\nSome say it brings luck. Others say it's just a clever way to start the year right.\n\n[color=#FF6A00]Lunar Year 2026 Item[/color]\n\n[i]All companies and logos presented are fictional. Good fortune not included.[/i]",
-      "description_russian": "[color=#FFD84D]EX Tier[/color]\n\nПраздничный коллекционный предмет в честь Лунного Нового года.\nОграниченный и доступен только во время события LNY 2026.\nКто-то считает, что он приносит удачу. Другие — что это просто удачный способ начать год.\n\n[color=#FF6A00]Lunar Year 2026 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Удача в комплект не входит.[/i]",
-      "description_spanish": "[color=#FFD84D]EX Tier[/color]\n\nCelebra el Año Nuevo Lunar con este objeto coleccionable exclusivo.\nLimitado al evento LNY 2026.\nAlgunos dicen que trae suerte. Otros que es solo una forma ingeniosa de empezar bien el año.\n\n[color=#FF6A00]Lunar Year 2026 Item[/color]\n\n[i]Todas las empresas y logotipos son ficticios. La buena fortuna no está incluida.[/i]",
-      "description_schinese": "[color=#FFD84D]EX Tier[/color]\n\n农历新年限量收藏物品。\n仅可在 LNY 2026 活动期间获得。\n有人说它会带来好运，也有人说这只是开启新年的巧妙方式\n\n[color=#FF6A00]Lunar Year 2026 Item[/color]\n\n[i]所有公司和标志均为虚构。好运不包含在内。[/i]",
+      "description_english": "[color=#FFD84D]EX Tier[/color]\n\nCelebrate Lunar New Year with this exclusive collectible.\nLimited to the LNY 2026 event.\nSome say it brings luck. Others say it's just a clever way to start the year right.\n\n[color=#FF6A00]Lunar New Year 2026 Item[/color]\n\n[i]All companies and logos presented are fictional. Good fortune not included.[/i]",
+      "description_russian": "[color=#FFD84D]EX Tier[/color]\n\nПраздничный коллекционный предмет в честь Лунного Нового года.\nОграниченный и доступен только во время события LNY 2026.\nКто-то считает, что он приносит удачу. Другие — что это просто удачный способ начать год.\n\n[color=#FF6A00]Lunar New Year 2026 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Удача в комплект не входит.[/i]",
+      "description_spanish": "[color=#FFD84D]EX Tier[/color]\n\nCelebra el Año Nuevo Lunar con este objeto coleccionable exclusivo.\nLimitado al evento LNY 2026.\nAlgunos dicen que trae suerte. Otros que es solo una forma ingeniosa de empezar bien el año.\n\n[color=#FF6A00]Lunar New Year 2026 Item[/color]\n\n[i]Todas las empresas y logotipos son ficticios. La buena fortuna no está incluida.[/i]",
+      "description_schinese": "[color=#FFD84D]EX Tier[/color]\n\n农历新年限量收藏物品。\n仅可在 LNY 2026 活动期间获得。\n有人说它会带来好运，也有人说这只是开启新年的巧妙方式\n\n[color=#FF6A00]Lunar New Year 2026 Item[/color]\n\n[i]所有公司和标志均为虚构。好运不包含在内。[/i]",
       "name_color": "FFD84D",
       "background_color": "5A1E1E",
       "auto_stack": true,
@@ -290,10 +290,10 @@
       "name_russian": "Лошадка",
       "name_spanish": "Caballito",
       "name_schinese": "小马",
-      "description_english": "[color=#FFD84D]EX Tier[/color]\n\nCelebrate Lunar New Year with this exclusive collectible.\nLimited to the LNY 2026 event.\nSome say it brings luck. Others say it's just a clever way to start the year right.\n\n[color=#FF6A00]Lunar Year 2026 Item[/color]\n\n[i]All companies and logos presented are fictional. Good fortune not included.[/i]",
-      "description_russian": "[color=#FFD84D]EX Tier[/color]\n\nПраздничный коллекционный предмет в честь Лунного Нового года.\nОграниченный и доступен только во время события LNY 2026.\nКто-то считает, что он приносит удачу. Другие — что это просто удачный способ начать год.\n\n[color=#FF6A00]Lunar Year 2026 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Удача в комплект не входит.[/i]",
-      "description_spanish": "[color=#FFD84D]EX Tier[/color]\n\nCelebra el Año Nuevo Lunar con este objeto coleccionable exclusivo.\nLimitado al evento LNY 2026.\nAlgunos dicen que trae suerte. Otros que es solo una forma ingeniosa de empezar bien el año.\n\n[color=#FF6A00]Lunar Year 2026 Item[/color]\n\n[i]Todas las empresas y logotipos son ficticios. La buena fortuna no está incluida.[/i]",
-      "description_schinese": "[color=#FFD84D]EX Tier[/color]\n\n农历新年限量收藏物品。\n仅可在 LNY 2026 活动期间获得。\n有人说它会带来好运，也有人说这只是开启新年的巧妙方式\n\n[color=#FF6A00]Lunar Year 2026 Item[/color]\n\n[i]所有公司和标志均为虚构。好运不包含在内。[/i]",
+      "description_english": "[color=#FFD84D]EX Tier[/color]\n\nCelebrate Lunar New Year with this exclusive collectible.\nLimited to the LNY 2026 event.\nSome say it brings luck. Others say it's just a clever way to start the year right.\n\n[color=#FF6A00]Lunar New Year 2026 Item[/color]\n\n[i]All companies and logos presented are fictional. Good fortune not included.[/i]",
+      "description_russian": "[color=#FFD84D]EX Tier[/color]\n\nПраздничный коллекционный предмет в честь Лунного Нового года.\nОграниченный и доступен только во время события LNY 2026.\nКто-то считает, что он приносит удачу. Другие — что это просто удачный способ начать год.\n\n[color=#FF6A00]Lunar New Year 2026 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Удача в комплект не входит.[/i]",
+      "description_spanish": "[color=#FFD84D]EX Tier[/color]\n\nCelebra el Año Nuevo Lunar con este objeto coleccionable exclusivo.\nLimitado al evento LNY 2026.\nAlgunos dicen que trae suerte. Otros que es solo una forma ingeniosa de empezar bien el año.\n\n[color=#FF6A00]Lunar New Year 2026 Item[/color]\n\n[i]Todas las empresas y logotipos son ficticios. La buena fortuna no está incluida.[/i]",
+      "description_schinese": "[color=#FFD84D]EX Tier[/color]\n\n农历新年限量收藏物品。\n仅可在 LNY 2026 活动期间获得。\n有人说它会带来好运，也有人说这只是开启新年的巧妙方式\n\n[color=#FF6A00]Lunar New Year 2026 Item[/color]\n\n[i]所有公司和标志均为虚构。好运不包含在内。[/i]",
       "name_color": "FFD84D",
       "background_color": "5A1E1E",
       "auto_stack": true,
@@ -325,10 +325,10 @@
       "name_russian": "Небесный фонарь",
       "name_spanish": "Linterna Voladora",
       "name_schinese": "天灯",
-      "description_english": "[color=#FFD84D]EX Tier[/color]\n\nCelebrate Lunar New Year with this exclusive collectible.\nLimited to the LNY 2026 event.\nSome say it brings luck. Others say it's just a clever way to start the year right.\n\n[color=#FF6A00]Lunar Year 2026 Item[/color]\n\n[i]All companies and logos presented are fictional. Good fortune not included.[/i]",
-      "description_russian": "[color=#FFD84D]EX Tier[/color]\n\nПраздничный коллекционный предмет в честь Лунного Нового года.\nОграниченный и доступен только во время события LNY 2026.\nКто-то считает, что он приносит удачу. Другие — что это просто удачный способ начать год.\n\n[color=#FF6A00]Lunar Year 2026 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Удача в комплект не входит.[/i]",
-      "description_spanish": "[color=#FFD84D]EX Tier[/color]\n\nCelebra el Año Nuevo Lunar con este objeto coleccionable exclusivo.\nLimitado al evento LNY 2026.\nAlgunos dicen que trae suerte. Otros que es solo una forma ingeniosa de empezar bien el año.\n\n[color=#FF6A00]Lunar Year 2026 Item[/color]\n\n[i]Todas las empresas y logotipos son ficticios. La buena fortuna no está incluida.[/i]",
-      "description_schinese": "[color=#FFD84D]EX Tier[/color]\n\n农历新年限量收藏物品。\n仅可在 LNY 2026 活动期间获得。\n有人说它会带来好运，也有人说这只是开启新年的巧妙方式\n\n[color=#FF6A00]Lunar Year 2026 Item[/color]\n\n[i]所有公司和标志均为虚构。好运不包含在内。[/i]",
+      "description_english": "[color=#FFD84D]EX Tier[/color]\n\nCelebrate Lunar New Year with this exclusive collectible.\nLimited to the LNY 2026 event.\nSome say it brings luck. Others say it's just a clever way to start the year right.\n\n[color=#FF6A00]Lunar New Year 2026 Item[/color]\n\n[i]All companies and logos presented are fictional. Good fortune not included.[/i]",
+      "description_russian": "[color=#FFD84D]EX Tier[/color]\n\nПраздничный коллекционный предмет в честь Лунного Нового года.\nОграниченный и доступен только во время события LNY 2026.\nКто-то считает, что он приносит удачу. Другие — что это просто удачный способ начать год.\n\n[color=#FF6A00]Lunar New Year 2026 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Удача в комплект не входит.[/i]",
+      "description_spanish": "[color=#FFD84D]EX Tier[/color]\n\nCelebra el Año Nuevo Lunar con este objeto coleccionable exclusivo.\nLimitado al evento LNY 2026.\nAlgunos dicen que trae suerte. Otros que es solo una forma ingeniosa de empezar bien el año.\n\n[color=#FF6A00]Lunar New Year 2026 Item[/color]\n\n[i]Todas las empresas y logotipos son ficticios. La buena fortuna no está incluida.[/i]",
+      "description_schinese": "[color=#FFD84D]EX Tier[/color]\n\n农历新年限量收藏物品。\n仅可在 LNY 2026 活动期间获得。\n有人说它会带来好运，也有人说这只是开启新年的巧妙方式\n\n[color=#FF6A00]Lunar New Year 2026 Item[/color]\n\n[i]所有公司和标志均为虚构。好运不包含在内。[/i]",
       "name_color": "FFD84D",
       "background_color": "5A1E1E",
       "auto_stack": true,
@@ -985,117 +985,117 @@
       "auto_stack": true,
       "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1021small.png",
       "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1021large.png",
-    "marketable": true,
-    "tradable": true,
-    "tags": [
-      {
-        "tag": "season",
-        "value": "5"
-      },
-      {
-        "tag": "tier",
-        "value": "S"
-      },
-      {
-        "tag": "type",
-        "value": "item"
-      }
-    ],
-    "store_tags": "season_5;tier_S;type_item"
-  },
-  {
-    "itemdefid": 1022,
-    "type": "item",
-    "name": "Choccie - A",
-    "description_english": "[color=#CF3A3B]A Tier[/color]\n\nChoccie — chocolate with luxurious packaging and a taste that reminds you that appearances aren't everything. Perfect for collectors of disappointment.\n\n[color=#D6720D]Season 5 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
-    "description_russian": "[color=#CF3A3B]A Tier[/color]\n\nChoccie — шоколад с роскошной упаковкой и вкусом, который напоминает, что внешний вид — не всё. Идеален для коллекционеров разочарований.\n\n[color=#D6720D]Season 5 Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любые совпадения с реальными — случайны или сатиричны.[/i]",
-    "description_spanish": "[color=#CF3A3B]A Tier[/color]\n\nChoccie — chocolate con un empaque lujoso y un sabor que recuerda que las apariencias no lo son todo. Perfecto para coleccionistas de decepciones.\n\n[color=#D6720D]Season 5 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es coincidencia o sátira.[/i]",
-    "description_schinese": "[color=#CF3A3B]A Tier[/color]\n\nChoccie —— 拥有华丽包装和提醒你外表并非一切的口味的巧克力。非常适合收集失望的收藏家。\n\n[color=#D6720D]Season 5 Item[/color]\n\n[i]所有公司和标志均为虚构。任何相似均属巧合或讽刺。[/i]",
-    "name_color": "CF3A3B",
-    "background_color": "3F1E25",
-    "auto_stack": true,
-    "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1022small.png",
-    "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1022large.png",
-    "marketable": true,
-    "tradable": true,
-    "tags": [
-      {
-        "tag": "season",
-        "value": "5"
-      },
-      {
-        "tag": "tier",
-        "value": "A"
-      },
-      {
-        "tag": "type",
-        "value": "item"
-      }
-    ],
-    "store_tags": "season_5;tier_A;type_item"
-  },
-  {
-    "itemdefid": 1023,
-    "type": "item",
-    "name": "Choccie - B",
-    "description_english": "[color=#6B1FA4]B Tier[/color]\n\nChoccie — chocolate with luxurious packaging and a taste that reminds you that appearances aren't everything. Perfect for collectors of disappointment.\n\n[color=#D6720D]Season 5 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
-    "description_russian": "[color=#6B1FA4]B Tier[/color]\n\nChoccie — шоколад с роскошной упаковкой и вкусом, который напоминает, что внешний вид — не всё. Идеален для коллекционеров разочарований.\n\n[color=#D6720D]Season 5 Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любые совпадения с реальными — случайны или сатиричны.[/i]",
-    "description_spanish": "[color=#6B1FA4]B Tier[/color]\n\nChoccie — chocolate con un empaque lujoso y un sabor que recuerda que las apariencias no lo son todo. Perfecto para coleccionistas de decepciones.\n\n[color=#D6720D]Season 5 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es coincidencia o sátira.[/i]",
-    "description_schinese": "[color=#6B1FA4]B Tier[/color]\n\nChoccie —— 拥有华丽包装和提醒你外表并非一切的口味的巧克力。非常适合收集失望的收藏家。\n\n[color=#D6720D]Season 5 Item[/color]\n\n[i]所有公司和标志均为虚构。任何相似均属巧合或讽刺。[/i]",
-    "name_color": "6B1FA4",
-    "background_color": "3A2133",
-    "auto_stack": true,
-    "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1023small.png",
-    "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1023large.png",
-    "marketable": true,
-    "tradable": true,
-    "tags": [
-      {
-        "tag": "season",
-        "value": "5"
-      },
-      {
-        "tag": "tier",
-        "value": "B"
-      },
-      {
-        "tag": "type",
-        "value": "item"
-      }
-    ],
-    "store_tags": "season_5;tier_B;type_item"
-  },
-  {
-    "itemdefid": 1024,
-    "type": "item",
-    "name": "Choccie - C",
-    "description_english": "[color=#2D3EB2]C Tier[/color]\n\nChoccie — chocolate with luxurious packaging and a taste that reminds you that appearances aren't everything. Perfect for collectors of disappointment.\n\n[color=#D6720D]Season 5 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
-    "description_russian": "[color=#2D3EB2]C Tier[/color]\n\nChoccie — шоколад с роскошной упаковкой и вкусом, который напоминает, что внешний вид — не всё. Идеален для коллекционеров разочарований.\n\n[color=#D6720D]Season 5 Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любые совпадения с реальными — случайны или сатиричны.[/i]",
-    "description_spanish": "[color=#2D3EB2]C Tier[/color]\n\nChoccie — chocolate con un empaque lujoso y un sabor que recuerda que las apariencias no lo son todo. Perfecto para coleccionistas de decepciones.\n\n[color=#D6720D]Season 5 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es coincidencia o sátira.[/i]",
-    "description_schinese": "[color=#2D3EB2]C Tier[/color]\n\nChoccie —— 拥有华丽包装和提醒你外表并非一切的口味的巧克力。非常适合收集失望的收藏家。\n\n[color=#D6720D]Season 5 Item[/color]\n\n[i]所有公司和标志均为虚构。任何相似均属巧合或讽刺。[/i]",
-    "name_color": "2D3EB2",
-    "background_color": "2D1E42",
-    "auto_stack": true,
-    "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1024small.png",
-    "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1024large.png",
-    "marketable": true,
-    "tradable": true,
-    "tags": [
-      {
-        "tag": "season",
-        "value": "5"
-      },
-      {
-        "tag": "tier",
-        "value": "C"
-      },
-      {
-        "tag": "type",
-        "value": "item"
-      }
-    ],
-    "store_tags": "season_5;tier_C;type_item"
-  },
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "5"
+        },
+        {
+          "tag": "tier",
+          "value": "S"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_5;tier_S;type_item"
+    },
+    {
+      "itemdefid": 1022,
+      "type": "item",
+      "name": "Choccie - A",
+      "description_english": "[color=#CF3A3B]A Tier[/color]\n\nChoccie — chocolate with luxurious packaging and a taste that reminds you that appearances aren't everything. Perfect for collectors of disappointment.\n\n[color=#D6720D]Season 5 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#CF3A3B]A Tier[/color]\n\nChoccie — шоколад с роскошной упаковкой и вкусом, который напоминает, что внешний вид — не всё. Идеален для коллекционеров разочарований.\n\n[color=#D6720D]Season 5 Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любые совпадения с реальными — случайны или сатиричны.[/i]",
+      "description_spanish": "[color=#CF3A3B]A Tier[/color]\n\nChoccie — chocolate con un empaque lujoso y un sabor que recuerda que las apariencias no lo son todo. Perfecto para coleccionistas de decepciones.\n\n[color=#D6720D]Season 5 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#CF3A3B]A Tier[/color]\n\nChoccie —— 拥有华丽包装和提醒你外表并非一切的口味的巧克力。非常适合收集失望的收藏家。\n\n[color=#D6720D]Season 5 Item[/color]\n\n[i]所有公司和标志均为虚构。任何相似均属巧合或讽刺。[/i]",
+      "name_color": "CF3A3B",
+      "background_color": "3F1E25",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1022small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1022large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "5"
+        },
+        {
+          "tag": "tier",
+          "value": "A"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_5;tier_A;type_item"
+    },
+    {
+      "itemdefid": 1023,
+      "type": "item",
+      "name": "Choccie - B",
+      "description_english": "[color=#6B1FA4]B Tier[/color]\n\nChoccie — chocolate with luxurious packaging and a taste that reminds you that appearances aren't everything. Perfect for collectors of disappointment.\n\n[color=#D6720D]Season 5 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#6B1FA4]B Tier[/color]\n\nChoccie — шоколад с роскошной упаковкой и вкусом, который напоминает, что внешний вид — не всё. Идеален для коллекционеров разочарований.\n\n[color=#D6720D]Season 5 Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любые совпадения с реальными — случайны или сатиричны.[/i]",
+      "description_spanish": "[color=#6B1FA4]B Tier[/color]\n\nChoccie — chocolate con un empaque lujoso y un sabor que recuerda que las apariencias no lo son todo. Perfecto para coleccionistas de decepciones.\n\n[color=#D6720D]Season 5 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#6B1FA4]B Tier[/color]\n\nChoccie —— 拥有华丽包装和提醒你外表并非一切的口味的巧克力。非常适合收集失望的收藏家。\n\n[color=#D6720D]Season 5 Item[/color]\n\n[i]所有公司和标志均为虚构。任何相似均属巧合或讽刺。[/i]",
+      "name_color": "6B1FA4",
+      "background_color": "3A2133",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1023small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1023large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "5"
+        },
+        {
+          "tag": "tier",
+          "value": "B"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_5;tier_B;type_item"
+    },
+    {
+      "itemdefid": 1024,
+      "type": "item",
+      "name": "Choccie - C",
+      "description_english": "[color=#2D3EB2]C Tier[/color]\n\nChoccie — chocolate with luxurious packaging and a taste that reminds you that appearances aren't everything. Perfect for collectors of disappointment.\n\n[color=#D6720D]Season 5 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#2D3EB2]C Tier[/color]\n\nChoccie — шоколад с роскошной упаковкой и вкусом, который напоминает, что внешний вид — не всё. Идеален для коллекционеров разочарований.\n\n[color=#D6720D]Season 5 Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любые совпадения с реальными — случайны или сатиричны.[/i]",
+      "description_spanish": "[color=#2D3EB2]C Tier[/color]\n\nChoccie — chocolate con un empaque lujoso y un sabor que recuerda que las apariencias no lo son todo. Perfecto para coleccionistas de decepciones.\n\n[color=#D6720D]Season 5 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#2D3EB2]C Tier[/color]\n\nChoccie —— 拥有华丽包装和提醒你外表并非一切的口味的巧克力。非常适合收集失望的收藏家。\n\n[color=#D6720D]Season 5 Item[/color]\n\n[i]所有公司和标志均为虚构。任何相似均属巧合或讽刺。[/i]",
+      "name_color": "2D3EB2",
+      "background_color": "2D1E42",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1024small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1024large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "5"
+        },
+        {
+          "tag": "tier",
+          "value": "C"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_5;tier_C;type_item"
+    },
     {
       "itemdefid": 1025,
       "type": "item",
@@ -1127,160 +1127,160 @@
       ],
       "store_tags": "season_5;tier_D;type_item"
     },
-      {
-        "itemdefid": 1026,
-        "type": "item",
-        "name": "Toyoda - S",
-        "description_english": "[color=#D6720D]S Tier[/color]\n\nToyoda — the car that will faithfully serve you, your children, and probably the next civilization. Zero drama, zero breakdowns, zero personality.\nStarts every time. Even when you don’t want to go to work.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
-        "description_russian": "[color=#D6720D]S Tier[/color]\n\nToyoda — машина, которая переживёт вас, ваших детей и, возможно, следующую цивилизацию. Ноль драмы, ноль поломок, ноль индивидуальности.\nЗаводится всегда. Даже когда вам не хочется на работу.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любые совпадения с реальными — случайны или сатиричны.[/i]",
-        "description_spanish": "[color=#D6720D]S Tier[/color]\n\nToyoda — el coche que te servirá fielmente a ti, a tus hijos y, probablemente, a la próxima civilización. Cero drama, cero averías, cero personalidad.\nArranca siempre. Incluso cuando no quieres ir a trabajar.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es coincidencia o sátira.[/i]",
-        "description_schinese": "[color=#D6720D]S Tier[/color]\n\nToyoda —— 一辆将忠实服务于你、你的孩子，甚至可能是下一代文明的汽车。零麻烦，零故障，零个性。\n每次都能启动。即使你不想上班。\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]所有公司和标志均为虚构。任何相似均属巧合或讽刺。[/i]",
-        "name_color": "D6720D",
-        "background_color": "3B2F1B",
-        "auto_stack": true,
-        "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1026small.png",
-        "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1026large.png",
-        "marketable": true,
-        "tradable": true,
-        "tags": [
-          {
-            "tag": "season",
-            "value": "6"
-          },
-          {
-            "tag": "tier",
-            "value": "S"
-          },
-          {
-            "tag": "type",
-            "value": "item"
-          }
-        ],
-        "store_tags": "season_6;tier_S;type_item"
-      },
-      {
-        "itemdefid": 1027,
-        "type": "item",
-        "name": "Toyoda - A",
-        "description_english": "[color=#CF3A3B]A Tier[/color]\n\nToyoda — the car that will faithfully serve you, your children, and probably the next civilization. Zero drama, zero breakdowns, zero personality.\nStarts every time. Even when you don’t want to go to work.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
-        "description_russian": "[color=#CF3A3B]A Tier[/color]\n\nToyoda — машина, которая переживёт вас, ваших детей и, возможно, следующую цивилизацию. Ноль драмы, ноль поломок, ноль индивидуальности.\nЗаводится всегда. Даже когда вам не хочется на работу.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любые совпадения с реальными — случайны или сатиричны.[/i]",
-        "description_spanish": "[color=#CF3A3B]A Tier[/color]\n\nToyoda — el coche que te servirá fielmente a ti, a tus hijos y, probablemente, a la próxima civilización. Cero drama, cero averías, cero personalidad.\nArranca siempre. Incluso cuando no quieres ir a trabajar.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es coincidencia o sátira.[/i]",
-        "description_schinese": "[color=#CF3A3B]A Tier[/color]\n\nToyoda —— 一辆将忠实服务于你、你的孩子，甚至可能是下一代文明的汽车。零麻烦，零故障，零个性。\n每次都能启动。即使你不想上班。\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]所有公司和标志均为虚构。任何相似均属巧合或讽刺。[/i]",
-        "name_color": "CF3A3B",
-        "background_color": "3F1E25",
-        "auto_stack": true,
-        "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1027small.png",
-        "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1027large.png",
-        "marketable": true,
-        "tradable": true,
-        "tags": [
-          {
-            "tag": "season",
-            "value": "6"
-          },
-          {
-            "tag": "tier",
-            "value": "A"
-          },
-          {
-            "tag": "type",
-            "value": "item"
-          }
-        ],
-        "store_tags": "season_6;tier_A;type_item"
-      },
-      {
-        "itemdefid": 1028,
-        "type": "item",
-        "name": "Toyoda - B",
-        "description_english": "[color=#6B1FA4]B Tier[/color]\n\nToyoda — the car that will faithfully serve you, your children, and probably the next civilization. Zero drama, zero breakdowns, zero personality.\nStarts every time. Even when you don’t want to go to work.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
-        "description_russian": "[color=#6B1FA4]B Tier[/color]\n\nToyoda — машина, которая переживёт вас, ваших детей и, возможно, следующую цивилизацию. Ноль драмы, ноль поломок, ноль индивидуальности.\nЗаводится всегда. Даже когда вам не хочется на работу.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любые совпадения с реальными — случайны или сатиричны.[/i]",
-        "description_spanish": "[color=#6B1FA4]B Tier[/color]\n\nToyoda — el coche que te servirá fielmente a ti, a tus hijos y, probablemente, a la próxima civilización. Cero drama, cero averías, cero personalidad.\nArranca siempre. Incluso cuando no quieres ir a trabajar.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es coincidencia o sátira.[/i]",
-        "description_schinese": "[color=#6B1FA4]B Tier[/color]\n\nToyoda —— 一辆将忠实服务于你、你的孩子，甚至可能是下一代文明的汽车。零麻烦，零故障，零个性。\n每次都能启动。即使你不想上班。\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]所有公司和标志均为虚构。任何相似均属巧合或讽刺。[/i]",
-        "name_color": "6B1FA4",
-        "background_color": "3A2133",
-        "auto_stack": true,
-        "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1028small.png",
-        "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1028large.png",
-        "marketable": true,
-        "tradable": true,
-        "tags": [
-          {
-            "tag": "season",
-            "value": "6"
-          },
-          {
-            "tag": "tier",
-            "value": "B"
-          },
-          {
-            "tag": "type",
-            "value": "item"
-          }
-        ],
-        "store_tags": "season_6;tier_B;type_item"
-      },
-      {
-        "itemdefid": 1029,
-        "type": "item",
-        "name": "Toyoda - C",
-        "description_english": "[color=#2D3EB2]C Tier[/color]\n\nToyoda — the car that will faithfully serve you, your children, and probably the next civilization. Zero drama, zero breakdowns, zero personality.\nStarts every time. Even when you don’t want to go to work.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
-        "description_russian": "[color=#2D3EB2]C Tier[/color]\n\nToyoda — машина, которая переживёт вас, ваших детей и, возможно, следующую цивилизацию. Ноль драмы, ноль поломок, ноль индивидуальности.\nЗаводится всегда. Даже когда вам не хочется на работу.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любые совпадения с реальными — случайны или сатиричны.[/i]",
-        "description_spanish": "[color=#2D3EB2]C Tier[/color]\n\nToyoda — el coche que te servirá fielmente a ti, a tus hijos y, probablemente, a la próxima civilización. Cero drama, cero averías, cero personalidad.\nArranca siempre. Incluso cuando no quieres ir a trabajar.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es coincidencia o sátira.[/i]",
-        "description_schinese": "[color=#2D3EB2]C Tier[/color]\n\nToyoda —— 一辆将忠实服务于你、你的孩子，甚至可能是下一代文明的汽车。零麻烦，零故障，零个性。\n每次都能启动。即使你不想上班。\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]所有公司和标志均为虚构。任何相似均属巧合或讽刺。[/i]",
-        "name_color": "2D3EB2",
-        "background_color": "2D1E42",
-        "auto_stack": true,
-        "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1029small.png",
-        "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1029large.png",
-        "marketable": true,
-        "tradable": true,
-        "tags": [
-          {
-            "tag": "season",
-            "value": "6"
-          },
-          {
-            "tag": "tier",
-            "value": "C"
-          },
-          {
-            "tag": "type",
-            "value": "item"
-          }
-        ],
-        "store_tags": "season_6;tier_C;type_item"
-      },
-      {
-        "itemdefid": 1030,
-        "type": "item",
-        "name": "Toyoda - D",
-        "description_english": "[color=#8D97D4]D Tier[/color]\n\nToyoda — the car that will faithfully serve you, your children, and probably the next civilization. Zero drama, zero breakdowns, zero personality.\nStarts every time. Even when you don’t want to go to work.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
-        "description_russian": "[color=#8D97D4]D Tier[/color]\n\nToyoda — машина, которая переживёт вас, ваших детей и, возможно, следующую цивилизацию. Ноль драмы, ноль поломок, ноль индивидуальности.\nЗаводится всегда. Даже когда вам не хочется на работу.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любые совпадения с реальными — случайны или сатиричны.[/i]",
-        "description_spanish": "[color=#8D97D4]D Tier[/color]\n\nToyoda — el coche que te servirá fielmente a ti, a tus hijos y, probablemente, a la próxima civilización. Cero drama, cero averías, cero personalidad.\nArranca siempre. Incluso cuando no quieres ir a trabajar.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es coincidencia o sátira.[/i]",
-        "description_schinese": "[color=#8D97D4]D Tier[/color]\n\nToyoda —— 一辆将忠实服务于你、你的孩子，甚至可能是下一代文明的汽车。零麻烦，零故障，零个性。\n每次都能启动。即使你不想上班。\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]所有公司和标志均为虚构。任何相似均属巧合或讽刺。[/i]",
-        "name_color": "8D97D4",
-        "background_color": "1C2A3E",
-        "auto_stack": true,
-        "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1030small.png",
-        "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1030large.png",
-        "marketable": true,
-        "tradable": true,
-        "tags": [
-          {
-            "tag": "season",
-            "value": "6"
-          },
-          {
-            "tag": "tier",
-            "value": "D"
-          },
-          {
-            "tag": "type",
-            "value": "item"
-          }
-        ],
-        "store_tags": "season_6;tier_D;type_item"
-      }
-    ]
+    {
+      "itemdefid": 1026,
+      "type": "item",
+      "name": "Toyoda - S",
+      "description_english": "[color=#D6720D]S Tier[/color]\n\nToyoda — the car that will faithfully serve you, your children, and probably the next civilization. Zero drama, zero breakdowns, zero personality.\nStarts every time. Even when you don’t want to go to work.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#D6720D]S Tier[/color]\n\nToyoda — машина, которая переживёт вас, ваших детей и, возможно, следующую цивилизацию. Ноль драмы, ноль поломок, ноль индивидуальности.\nЗаводится всегда. Даже когда вам не хочется на работу.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любые совпадения с реальными — случайны или сатиричны.[/i]",
+      "description_spanish": "[color=#D6720D]S Tier[/color]\n\nToyoda — el coche que te servirá fielmente a ti, a tus hijos y, probablemente, a la próxima civilización. Cero drama, cero averías, cero personalidad.\nArranca siempre. Incluso cuando no quieres ir a trabajar.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#D6720D]S Tier[/color]\n\nToyoda —— 一辆将忠实服务于你、你的孩子，甚至可能是下一代文明的汽车。零麻烦，零故障，零个性。\n每次都能启动。即使你不想上班。\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]所有公司和标志均为虚构。任何相似均属巧合或讽刺。[/i]",
+      "name_color": "D6720D",
+      "background_color": "3B2F1B",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1026small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1026large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "6"
+        },
+        {
+          "tag": "tier",
+          "value": "S"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_6;tier_S;type_item"
+    },
+    {
+      "itemdefid": 1027,
+      "type": "item",
+      "name": "Toyoda - A",
+      "description_english": "[color=#CF3A3B]A Tier[/color]\n\nToyoda — the car that will faithfully serve you, your children, and probably the next civilization. Zero drama, zero breakdowns, zero personality.\nStarts every time. Even when you don’t want to go to work.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#CF3A3B]A Tier[/color]\n\nToyoda — машина, которая переживёт вас, ваших детей и, возможно, следующую цивилизацию. Ноль драмы, ноль поломок, ноль индивидуальности.\nЗаводится всегда. Даже когда вам не хочется на работу.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любые совпадения с реальными — случайны или сатиричны.[/i]",
+      "description_spanish": "[color=#CF3A3B]A Tier[/color]\n\nToyoda — el coche que te servirá fielmente a ti, a tus hijos y, probablemente, a la próxima civilización. Cero drama, cero averías, cero personalidad.\nArranca siempre. Incluso cuando no quieres ir a trabajar.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#CF3A3B]A Tier[/color]\n\nToyoda —— 一辆将忠实服务于你、你的孩子，甚至可能是下一代文明的汽车。零麻烦，零故障，零个性。\n每次都能启动。即使你不想上班。\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]所有公司和标志均为虚构。任何相似均属巧合或讽刺。[/i]",
+      "name_color": "CF3A3B",
+      "background_color": "3F1E25",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1027small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1027large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "6"
+        },
+        {
+          "tag": "tier",
+          "value": "A"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_6;tier_A;type_item"
+    },
+    {
+      "itemdefid": 1028,
+      "type": "item",
+      "name": "Toyoda - B",
+      "description_english": "[color=#6B1FA4]B Tier[/color]\n\nToyoda — the car that will faithfully serve you, your children, and probably the next civilization. Zero drama, zero breakdowns, zero personality.\nStarts every time. Even when you don’t want to go to work.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#6B1FA4]B Tier[/color]\n\nToyoda — машина, которая переживёт вас, ваших детей и, возможно, следующую цивилизацию. Ноль драмы, ноль поломок, ноль индивидуальности.\nЗаводится всегда. Даже когда вам не хочется на работу.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любые совпадения с реальными — случайны или сатиричны.[/i]",
+      "description_spanish": "[color=#6B1FA4]B Tier[/color]\n\nToyoda — el coche que te servirá fielmente a ti, a tus hijos y, probablemente, a la próxima civilización. Cero drama, cero averías, cero personalidad.\nArranca siempre. Incluso cuando no quieres ir a trabajar.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#6B1FA4]B Tier[/color]\n\nToyoda —— 一辆将忠实服务于你、你的孩子，甚至可能是下一代文明的汽车。零麻烦，零故障，零个性。\n每次都能启动。即使你不想上班。\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]所有公司和标志均为虚构。任何相似均属巧合或讽刺。[/i]",
+      "name_color": "6B1FA4",
+      "background_color": "3A2133",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1028small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1028large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "6"
+        },
+        {
+          "tag": "tier",
+          "value": "B"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_6;tier_B;type_item"
+    },
+    {
+      "itemdefid": 1029,
+      "type": "item",
+      "name": "Toyoda - C",
+      "description_english": "[color=#2D3EB2]C Tier[/color]\n\nToyoda — the car that will faithfully serve you, your children, and probably the next civilization. Zero drama, zero breakdowns, zero personality.\nStarts every time. Even when you don’t want to go to work.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#2D3EB2]C Tier[/color]\n\nToyoda — машина, которая переживёт вас, ваших детей и, возможно, следующую цивилизацию. Ноль драмы, ноль поломок, ноль индивидуальности.\nЗаводится всегда. Даже когда вам не хочется на работу.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любые совпадения с реальными — случайны или сатиричны.[/i]",
+      "description_spanish": "[color=#2D3EB2]C Tier[/color]\n\nToyoda — el coche que te servirá fielmente a ti, a tus hijos y, probablemente, a la próxima civilización. Cero drama, cero averías, cero personalidad.\nArranca siempre. Incluso cuando no quieres ir a trabajar.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#2D3EB2]C Tier[/color]\n\nToyoda —— 一辆将忠实服务于你、你的孩子，甚至可能是下一代文明的汽车。零麻烦，零故障，零个性。\n每次都能启动。即使你不想上班。\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]所有公司和标志均为虚构。任何相似均属巧合或讽刺。[/i]",
+      "name_color": "2D3EB2",
+      "background_color": "2D1E42",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1029small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1029large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "6"
+        },
+        {
+          "tag": "tier",
+          "value": "C"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_6;tier_C;type_item"
+    },
+    {
+      "itemdefid": 1030,
+      "type": "item",
+      "name": "Toyoda - D",
+      "description_english": "[color=#8D97D4]D Tier[/color]\n\nToyoda — the car that will faithfully serve you, your children, and probably the next civilization. Zero drama, zero breakdowns, zero personality.\nStarts every time. Even when you don’t want to go to work.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#8D97D4]D Tier[/color]\n\nToyoda — машина, которая переживёт вас, ваших детей и, возможно, следующую цивилизацию. Ноль драмы, ноль поломок, ноль индивидуальности.\nЗаводится всегда. Даже когда вам не хочется на работу.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любые совпадения с реальными — случайны или сатиричны.[/i]",
+      "description_spanish": "[color=#8D97D4]D Tier[/color]\n\nToyoda — el coche que te servirá fielmente a ti, a tus hijos y, probablemente, a la próxima civilización. Cero drama, cero averías, cero personalidad.\nArranca siempre. Incluso cuando no quieres ir a trabajar.\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#8D97D4]D Tier[/color]\n\nToyoda —— 一辆将忠实服务于你、你的孩子，甚至可能是下一代文明的汽车。零麻烦，零故障，零个性。\n每次都能启动。即使你不想上班。\n\n[color=#D6720D]Toyoda Season Item[/color]\n\n[i]所有公司和标志均为虚构。任何相似均属巧合或讽刺。[/i]",
+      "name_color": "8D97D4",
+      "background_color": "1C2A3E",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1030small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1030large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "6"
+        },
+        {
+          "tag": "tier",
+          "value": "D"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_6;tier_D;type_item"
+    }
+  ]
 }
