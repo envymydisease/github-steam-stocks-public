@@ -221,6 +221,138 @@
       "store_tags": "season_6;type_pack"
     },
     {
+      "itemdefid": 101,
+      "type": "item",
+      "name": "LNY 2026 - Pack",
+      "description_english": "[color=#FFD84D]LNY 2026 - Pack[/color]\n\nContains a set of three random stocks from the Lunar Year 2026 collection\n\n[color=#FFD84D]Lunar Year 2026 - Pack[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#FFD84D]LNY 2026 - Pack[/color]\n\nСодержит набор из трёх случайных акций из коллекции Lunar Year 2026\n\n[color=#FFD84D]Lunar Year 2026 - Pack[/color]\n\n[i]Все компании и логотипы вымышлены. Любые совпадения с реальными организациями случайны или сатиричны.[/i]",
+      "description_spanish": "[color=#FFD84D]LNY 2026 - Pack[/color]\n\nContiene un conjunto de tres acciones aleatorias de la colección Lunar Year 2026\n\n[color=#FFD84D]Lunar Year 2026 - Pack[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#FFD84D]LNY 2026 - Pack[/color]\n\n包含来自 Lunar Year 2026 系列的三只随机股票\n\n[color=#FFD84D]Lunar Year 2026 - Pack[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "name_color": "FFD84D",
+      "background_color": "5A1E1E",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/101small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/101large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "lunar_year_2026"
+        },
+        {
+          "tag": "type",
+          "value": "pack"
+        }
+      ],
+      "store_tags": "season_lunar_year_2026;type_pack"
+    },
+    {
+      "itemdefid": 10101,
+      "type": "item",
+      "name": "LNY 2026 - EX Item 1",
+      "name_english": "Fan",
+      "name_russian": "Веер",
+      "name_spanish": "Abanico",
+      "name_schinese": "折扇",
+      "description_english": "[color=#FFD84D]EX Tier[/color]\n\nCelebrate Lunar New Year with this exclusive collectible.\nLimited to the LNY 2026 event.\nSome say it brings luck. Others say it's just a clever way to start the year right.\n\n[color=#FF6A00]Lunar Year 2026 Item[/color]\n\n[i]All companies and logos presented are fictional. Good fortune not included.[/i]",
+      "description_russian": "[color=#FFD84D]EX Tier[/color]\n\nПраздничный коллекционный предмет в честь Лунного Нового года.\nОграниченный и доступен только во время события LNY 2026.\nКто-то считает, что он приносит удачу. Другие — что это просто удачный способ начать год.\n\n[color=#FF6A00]Lunar Year 2026 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Удача в комплект не входит.[/i]",
+      "description_spanish": "[color=#FFD84D]EX Tier[/color]\n\nCelebra el Año Nuevo Lunar con este objeto coleccionable exclusivo.\nLimitado al evento LNY 2026.\nAlgunos dicen que trae suerte. Otros que es solo una forma ingeniosa de empezar bien el año.\n\n[color=#FF6A00]Lunar Year 2026 Item[/color]\n\n[i]Todas las empresas y logotipos son ficticios. La buena fortuna no está incluida.[/i]",
+      "description_schinese": "[color=#FFD84D]EX Tier[/color]\n\n农历新年限量收藏物品。\n仅可在 LNY 2026 活动期间获得。\n有人说它会带来好运，也有人说这只是开启新年的巧妙方式\n\n[color=#FF6A00]Lunar Year 2026 Item[/color]\n\n[i]所有公司和标志均为虚构。好运不包含在内。[/i]",
+      "name_color": "FFD84D",
+      "background_color": "5A1E1E",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/10101small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/10101large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "lunar_year_2026"
+        },
+        {
+          "tag": "tier",
+          "value": "EX"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_lunar_year_2026;tier_EX;type_item"
+    },
+    {
+      "itemdefid": 10102,
+      "type": "item",
+      "name": "LNY 2026 - EX Item 2",
+      "name_english": "Horsie",
+      "name_russian": "Лошадка",
+      "name_spanish": "Caballito",
+      "name_schinese": "小马",
+      "description_english": "[color=#FFD84D]EX Tier[/color]\n\nCelebrate Lunar New Year with this exclusive collectible.\nLimited to the LNY 2026 event.\nSome say it brings luck. Others say it's just a clever way to start the year right.\n\n[color=#FF6A00]Lunar Year 2026 Item[/color]\n\n[i]All companies and logos presented are fictional. Good fortune not included.[/i]",
+      "description_russian": "[color=#FFD84D]EX Tier[/color]\n\nПраздничный коллекционный предмет в честь Лунного Нового года.\nОграниченный и доступен только во время события LNY 2026.\nКто-то считает, что он приносит удачу. Другие — что это просто удачный способ начать год.\n\n[color=#FF6A00]Lunar Year 2026 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Удача в комплект не входит.[/i]",
+      "description_spanish": "[color=#FFD84D]EX Tier[/color]\n\nCelebra el Año Nuevo Lunar con este objeto coleccionable exclusivo.\nLimitado al evento LNY 2026.\nAlgunos dicen que trae suerte. Otros que es solo una forma ingeniosa de empezar bien el año.\n\n[color=#FF6A00]Lunar Year 2026 Item[/color]\n\n[i]Todas las empresas y logotipos son ficticios. La buena fortuna no está incluida.[/i]",
+      "description_schinese": "[color=#FFD84D]EX Tier[/color]\n\n农历新年限量收藏物品。\n仅可在 LNY 2026 活动期间获得。\n有人说它会带来好运，也有人说这只是开启新年的巧妙方式\n\n[color=#FF6A00]Lunar Year 2026 Item[/color]\n\n[i]所有公司和标志均为虚构。好运不包含在内。[/i]",
+      "name_color": "FFD84D",
+      "background_color": "5A1E1E",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/10102small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/10102large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "lunar_year_2026"
+        },
+        {
+          "tag": "tier",
+          "value": "EX"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_lunar_year_2026;tier_EX;type_item"
+    },
+    {
+      "itemdefid": 10103,
+      "type": "item",
+      "name": "LNY 2026 - EX Item 3",
+      "name_english": "Sky Lantern",
+      "name_russian": "Небесный фонарь",
+      "name_spanish": "Linterna Voladora",
+      "name_schinese": "天灯",
+      "description_english": "[color=#FFD84D]EX Tier[/color]\n\nCelebrate Lunar New Year with this exclusive collectible.\nLimited to the LNY 2026 event.\nSome say it brings luck. Others say it's just a clever way to start the year right.\n\n[color=#FF6A00]Lunar Year 2026 Item[/color]\n\n[i]All companies and logos presented are fictional. Good fortune not included.[/i]",
+      "description_russian": "[color=#FFD84D]EX Tier[/color]\n\nПраздничный коллекционный предмет в честь Лунного Нового года.\nОграниченный и доступен только во время события LNY 2026.\nКто-то считает, что он приносит удачу. Другие — что это просто удачный способ начать год.\n\n[color=#FF6A00]Lunar Year 2026 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Удача в комплект не входит.[/i]",
+      "description_spanish": "[color=#FFD84D]EX Tier[/color]\n\nCelebra el Año Nuevo Lunar con este objeto coleccionable exclusivo.\nLimitado al evento LNY 2026.\nAlgunos dicen que trae suerte. Otros que es solo una forma ingeniosa de empezar bien el año.\n\n[color=#FF6A00]Lunar Year 2026 Item[/color]\n\n[i]Todas las empresas y logotipos son ficticios. La buena fortuna no está incluida.[/i]",
+      "description_schinese": "[color=#FFD84D]EX Tier[/color]\n\n农历新年限量收藏物品。\n仅可在 LNY 2026 活动期间获得。\n有人说它会带来好运，也有人说这只是开启新年的巧妙方式\n\n[color=#FF6A00]Lunar Year 2026 Item[/color]\n\n[i]所有公司和标志均为虚构。好运不包含在内。[/i]",
+      "name_color": "FFD84D",
+      "background_color": "5A1E1E",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/10103small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/10103large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "lunar_year_2026"
+        },
+        {
+          "tag": "tier",
+          "value": "EX"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_lunar_year_2026;tier_EX;type_item"
+    },
+    {
       "itemdefid": 1001,
       "type": "item",
       "name": "AMxD - S",
