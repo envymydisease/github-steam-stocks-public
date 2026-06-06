@@ -38,13 +38,13 @@ Para los jugadores que disfrutan con metas y progreso, el juego incluye diez log
 | Acquire 1000 stocks                 | Соберите 1000 акций                | Adquiere 1000 acciones           | 获得1000只股票                  |
 | Junior Investor                     | Начинающий инвестор                | Inversor novato                  | 初级投资者                      |
 | Earn your first $ 1 K               | Заработайте первые $ 1 K           | Gana tus primeros $ 1 K          | 赚取第一个 $ 1 K                |
+| Substantial Capital                 | Солидный капитал                   | Capital importante               | 丰厚资本                        |
+| Earn your first $ 100 K             | Заработайте первые $ 100 K         | Gana tus primeros $ 100 K        | 赚取第一个 $ 100 K              |
 | Millionaire Dreams                  | Мечты миллионера                   | Sueños de millonario             | 百万富翁的梦想                  |
 | Earn your first $ 1 M               | Заработайте первый $ 1 M           | Gana tu primer $ 1 M             | 赚取第一个 $ 1 M                |
 | Billionaire Club                    | Клуб миллиардеров                  | Club de los multimillonarios     | 十亿富翁俱乐部                  |
 | Earn your first $ 1 B               | Заработайте первый $ 1 B           | Gana tu primer $ 1 B             | 赚取第一个 $ 1 B                |
-| Trillionaire Pro                    | Триллионер-профи                   | Profesional del trillón          | 万亿高手                        |
-| Earn your first $ 1 T               | Заработайте первый $ 1 T           | Gana tu primer $ 1 T             | 赚取第一个 $ 1 T                |
-| Crack the Case                      | Взломай кейс	                   | Abre el caso                     | 或 破解箱子                     |
+| Crack the Case                      | Взломай кейс	                     | Abre el caso                     | 或 破解箱子                     |
 | Open your first stock case          | Откройте свой первый кейс с акциями| Abre tu primer caso de acciones  | 开启你的第一个股票宝箱           |
 
 
