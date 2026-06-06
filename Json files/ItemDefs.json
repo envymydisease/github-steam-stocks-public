@@ -248,6 +248,33 @@
       "store_tags": "season_7;type_pack"
     },
     {
+      "itemdefid": 8,
+      "type": "item",
+      "name": "Beta Theta - Pack",
+      "description_english": "[color=#8D97D4]Beta Theta - Pack[/color]\n\nContains a set of three random stocks from the Beta Theta collection\n\n[color=#8D97D4]Season 8 - Pack[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_schinese": "[color=#8D97D4]Beta Theta - Pack[/color]\n\n包含来自 Beta Theta 系列的三只随机股票\n\n[color=#8D97D4]Season 8 - Pack[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "description_russian": "[color=#8D97D4]Beta Theta - Pack[/color]\n\nСодержит набор из трёх случайных акций из коллекции Beta Theta\n\n[color=#8D97D4]Season 8 - Pack[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любые совпадения с реальными организациями случайны или сатиричны.[/i]",
+      "description_spanish": "[color=#8D97D4]Beta Theta - Pack[/color]\n\nContiene un conjunto de tres acciones aleatorias de la colección Beta Theta\n\n[color=#8D97D4]Season 8 - Pack[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "name_color": "8D97D4",
+      "background_color": "2C3E50",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/8small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/8large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "8"
+        },
+        {
+          "tag": "type",
+          "value": "pack"
+        }
+      ],
+      "store_tags": "season_8;type_pack"
+    },
+    {
       "itemdefid": 101,
       "type": "item",
       "name": "Lunar New Year 2026 - Pack",
@@ -1464,7 +1491,6 @@
       ],
       "store_tags": "season_7;tier_D;type_item"
     },
-    "```json",
     {
       "itemdefid": 1036,
       "type": "item",
