@@ -5,7 +5,7 @@
       "itemdefid": 1000,
       "type": "playtimegenerator",
       "name": "Playtime Drop",
-      "bundle": "6x20;7x40;1026x25;1027x50;1028x100;1029x200;1030x100;1031x50;1032x100;1033x200;1034x400;1035x800",
+      "bundle": "7x20;8x40;1031x25;1032x50;1033x100;1034x200;1035x100;1036x50;1037x100;1038x200;1039x400;1040x800",
       "drop_interval": 120,
       "use_drop_window": true,
       "drop_window": 120,
@@ -1309,162 +1309,316 @@
       ],
       "store_tags": "season_6;tier_D;type_item"
     },
-    [
-      {
-        "itemdefid": 1031,
-        "type": "item",
-        "name": "Sundisk - S",
-        "description_english": "[color=#D6720D]S Tier[/color]\n\nEach Sundisk memory module comes with a small reminder: 'Too much memory is not a problem, it's an investment.'\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
-        "description_russian": "[color=#D6720D]S Tier[/color]\n\nКаждый модуль Sundisk идёт с маленьким напоминанием: «Слишком много памяти – это не проблема, это инвестиция».\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
-        "description_spanish": "[color=#D6720D]S Tier[/color]\n\nCada módulo de memoria Sundisk viene con un pequeño recordatorio: 'Demasiada memoria no es un problema, es una inversión.'\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
-        "description_schinese": "[color=#D6720D]S Tier[/color]\n\n每个 Sundisk 内存模块都附带一句小提醒：“太多内存不是问题，这是投资。”\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
-        "name_color": "D6720D",
-        "background_color": "3B2F1B",
-        "auto_stack": true,
-        "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1031small.png",
-        "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1031large.png",
-        "marketable": true,
-        "tradable": true,
-        "tags": [
-          {
-            "tag": "season",
-            "value": "7"
-          },
-          {
-            "tag": "tier",
-            "value": "S"
-          },
-          {
-            "tag": "type",
-            "value": "item"
-          }
-        ],
-        "store_tags": "season_7;tier_S;type_item"
-      },
-      {
-        "itemdefid": 1032,
-        "type": "item",
-        "name": "Sundisk - A",
-        "description_english": "[color=#CF3A3B]A Tier[/color]\n\nEach Sundisk memory module comes with a small reminder: 'Too much memory is not a problem, it's an investment.'\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
-        "description_russian": "[color=#CF3A3B]A Tier[/color]\n\nКаждый модуль Sundisk идёт с маленьким напоминанием: «Слишком много памяти – это не проблема, это инвестиция».\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
-        "description_spanish": "[color=#CF3A3B]A Tier[/color]\n\nCada módulo de memoria Sundisk viene con un pequeño recordatorio: 'Demasiada memoria no es un problema, es una inversión.'\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
-        "description_schinese": "[color=#CF3A3B]A Tier[/color]\n\n每个 Sundisk 内存模块都附带一句小提醒：“太多内存不是问题，这是投资。”\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
-        "name_color": "CF3A3B",
-        "background_color": "3F1E25",
-        "auto_stack": true,
-        "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1032small.png",
-        "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1032large.png",
-        "marketable": true,
-        "tradable": true,
-        "tags": [
-          {
-            "tag": "season",
-            "value": "7"
-          },
-          {
-            "tag": "tier",
-            "value": "A"
-          },
-          {
-            "tag": "type",
-            "value": "item"
-          }
-        ],
-        "store_tags": "season_7;tier_A;type_item"
-      },
-      {
-        "itemdefid": 1033,
-        "type": "item",
-        "name": "Sundisk - B",
-        "description_english": "[color=#6B1FA4]B Tier[/color]\n\nEach Sundisk memory module comes with a small reminder: 'Too much memory is not a problem, it's an investment.'\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
-        "description_russian": "[color=#6B1FA4]B Tier[/color]\n\nКаждый модуль Sundisk идёт с маленьким напоминанием: «Слишком много памяти – это не проблема, это инвестиция».\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
-        "description_spanish": "[color=#6B1FA4]B Tier[/color]\n\nCada módulo de memoria Sundisk viene con un pequeño recordatorio: 'Demasiada memoria no es un problema, es una inversión.'\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
-        "description_schinese": "[color=#6B1FA4]B Tier[/color]\n\n每个 Sundisk 内存模块都附带一句小提醒：“太多内存不是问题，这是投资。”\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
-        "name_color": "6B1FA4",
-        "background_color": "3A2133",
-        "auto_stack": true,
-        "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1033small.png",
-        "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1033large.png",
-        "marketable": true,
-        "tradable": true,
-        "tags": [
-          {
-            "tag": "season",
-            "value": "7"
-          },
-          {
-            "tag": "tier",
-            "value": "B"
-          },
-          {
-            "tag": "type",
-            "value": "item"
-          }
-        ],
-        "store_tags": "season_7;tier_B;type_item"
-      },
-      {
-        "itemdefid": 1034,
-        "type": "item",
-        "name": "Sundisk - C",
-        "description_english": "[color=#2D3EB2]C Tier[/color]\n\nEach Sundisk memory module comes with a small reminder: 'Too much memory is not a problem, it's an investment.'\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
-        "description_russian": "[color=#2D3EB2]C Tier[/color]\n\nКаждый модуль Sundisk идёт с маленьким напоминанием: «Слишком много памяти – это не проблема, это инвестиция».\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
-        "description_spanish": "[color=#2D3EB2]C Tier[/color]\n\nCada módulo de memoria Sundisk viene con un pequeño recordatorio: 'Demasiada memoria no es un problema, es una inversión.'\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
-        "description_schinese": "[color=#2D3EB2]C Tier[/color]\n\n每个 Sundisk 内存模块都附带一句小提醒：“太多内存不是问题，这是投资。”\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
-        "name_color": "2D3EB2",
-        "background_color": "2D1E42",
-        "auto_stack": true,
-        "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1034small.png",
-        "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1034large.png",
-        "marketable": true,
-        "tradable": true,
-        "tags": [
-          {
-            "tag": "season",
-            "value": "7"
-          },
-          {
-            "tag": "tier",
-            "value": "C"
-          },
-          {
-            "tag": "type",
-            "value": "item"
-          }
-        ],
-        "store_tags": "season_7;tier_C;type_item"
-      },
-      {
-        "itemdefid": 1035,
-        "type": "item",
-        "name": "Sundisk - D",
-        "description_english": "[color=#8D97D4]D Tier[/color]\n\nEach Sundisk memory module comes with a small reminder: 'Too much memory is not a problem, it's an investment.'\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
-        "description_russian": "[color=#8D97D4]D Tier[/color]\n\nКаждый модуль Sundisk идёт с маленьким напоминанием: «Слишком много памяти – это не проблема, это инвестиция».\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
-        "description_spanish": "[color=#8D97D4]D Tier[/color]\n\nCada módulo de memoria Sundisk viene con un pequeño recordatorio: 'Demasiada memoria no es un problema, es una inversión.'\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
-        "description_schinese": "[color=#8D97D4]D Tier[/color]\n\n每个 Sundisk 内存模块都附带一句小提醒：“太多内存不是问题，这是投资。”\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
-        "name_color": "8D97D4",
-        "background_color": "1C2A3E",
-        "auto_stack": true,
-        "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1035small.png",
-        "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1035large.png",
-        "marketable": true,
-        "tradable": true,
-        "tags": [
-          {
-            "tag": "season",
-            "value": "7"
-          },
-          {
-            "tag": "tier",
-            "value": "D"
-          },
-          {
-            "tag": "type",
-            "value": "item"
-          }
-        ],
-        "store_tags": "season_7;tier_D;type_item"
-      }
-    ]
+    {
+      "itemdefid": 1031,
+      "type": "item",
+      "name": "Sundisk - S",
+      "description_english": "[color=#D6720D]S Tier[/color]\n\nEach Sundisk memory module comes with a small reminder: 'Too much memory is not a problem, it's an investment.'\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#D6720D]S Tier[/color]\n\nКаждый модуль Sundisk идёт с маленьким напоминанием: «Слишком много памяти – это не проблема, это инвестиция».\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_spanish": "[color=#D6720D]S Tier[/color]\n\nCada módulo de memoria Sundisk viene con un pequeño recordatorio: 'Demasiada memoria no es un problema, es una inversión.'\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#D6720D]S Tier[/color]\n\n每个 Sundisk 内存模块都附带一句小提醒：“太多内存不是问题，这是投资。”\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "name_color": "D6720D",
+      "background_color": "3B2F1B",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1031small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1031large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "7"
+        },
+        {
+          "tag": "tier",
+          "value": "S"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_7;tier_S;type_item"
+    },
+    {
+      "itemdefid": 1032,
+      "type": "item",
+      "name": "Sundisk - A",
+      "description_english": "[color=#CF3A3B]A Tier[/color]\n\nEach Sundisk memory module comes with a small reminder: 'Too much memory is not a problem, it's an investment.'\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#CF3A3B]A Tier[/color]\n\nКаждый модуль Sundisk идёт с маленьким напоминанием: «Слишком много памяти – это не проблема, это инвестиция».\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_spanish": "[color=#CF3A3B]A Tier[/color]\n\nCada módulo de memoria Sundisk viene con un pequeño recordatorio: 'Demasiada memoria no es un problema, es una inversión.'\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#CF3A3B]A Tier[/color]\n\n每个 Sundisk 内存模块都附带一句小提醒：“太多内存不是问题，这是投资。”\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "name_color": "CF3A3B",
+      "background_color": "3F1E25",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1032small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1032large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "7"
+        },
+        {
+          "tag": "tier",
+          "value": "A"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_7;tier_A;type_item"
+    },
+    {
+      "itemdefid": 1033,
+      "type": "item",
+      "name": "Sundisk - B",
+      "description_english": "[color=#6B1FA4]B Tier[/color]\n\nEach Sundisk memory module comes with a small reminder: 'Too much memory is not a problem, it's an investment.'\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#6B1FA4]B Tier[/color]\n\nКаждый модуль Sundisk идёт с маленьким напоминанием: «Слишком много памяти – это не проблема, это инвестиция».\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_spanish": "[color=#6B1FA4]B Tier[/color]\n\nCada módulo de memoria Sundisk viene con un pequeño recordatorio: 'Demasiada memoria no es un problema, es una inversión.'\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#6B1FA4]B Tier[/color]\n\n每个 Sundisk 内存模块都附带一句小提醒：“太多内存不是问题，这是投资。”\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "name_color": "6B1FA4",
+      "background_color": "3A2133",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1033small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1033large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "7"
+        },
+        {
+          "tag": "tier",
+          "value": "B"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_7;tier_B;type_item"
+    },
+    {
+      "itemdefid": 1034,
+      "type": "item",
+      "name": "Sundisk - C",
+      "description_english": "[color=#2D3EB2]C Tier[/color]\n\nEach Sundisk memory module comes with a small reminder: 'Too much memory is not a problem, it's an investment.'\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#2D3EB2]C Tier[/color]\n\nКаждый модуль Sundisk идёт с маленьким напоминанием: «Слишком много памяти – это не проблема, это инвестиция».\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_spanish": "[color=#2D3EB2]C Tier[/color]\n\nCada módulo de memoria Sundisk viene con un pequeño recordatorio: 'Demasiada memoria no es un problema, es una inversión.'\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#2D3EB2]C Tier[/color]\n\n每个 Sundisk 内存模块都附带一句小提醒：“太多内存不是问题，这是投资。”\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "name_color": "2D3EB2",
+      "background_color": "2D1E42",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1034small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1034large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "7"
+        },
+        {
+          "tag": "tier",
+          "value": "C"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_7;tier_C;type_item"
+    },
+    {
+      "itemdefid": 1035,
+      "type": "item",
+      "name": "Sundisk - D",
+      "description_english": "[color=#8D97D4]D Tier[/color]\n\nEach Sundisk memory module comes with a small reminder: 'Too much memory is not a problem, it's an investment.'\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#8D97D4]D Tier[/color]\n\nКаждый модуль Sundisk идёт с маленьким напоминанием: «Слишком много памяти – это не проблема, это инвестиция».\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_spanish": "[color=#8D97D4]D Tier[/color]\n\nCada módulo de memoria Sundisk viene con un pequeño recordatorio: 'Demasiada memoria no es un problema, es una inversión.'\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#8D97D4]D Tier[/color]\n\n每个 Sundisk 内存模块都附带一句小提醒：“太多内存不是问题，这是投资。”\n\n[color=#D6720D]Season 7 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "name_color": "8D97D4",
+      "background_color": "1C2A3E",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1035small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1035large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "7"
+        },
+        {
+          "tag": "tier",
+          "value": "D"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_7;tier_D;type_item"
+    },
+    "```json",
+    {
+      "itemdefid": 1036,
+      "type": "item",
+      "name": "Beta Theta - S",
+      "description_english": "[color=#D6720D]S Tier[/color]\n\nEvery Beta Theta controller comes with a factory preset called 'Future Hit'.\nNobody has ever finished a track with it, but everyone agrees it sounds promising.\n\n[color=#D6720D]Season 8 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#D6720D]S Tier[/color]\n\nКаждый контроллер Beta Theta поставляется с заводским пресетом «Будущий хит».\nНикто ещё не закончил с ним трек, но все согласны, что звучит многообещающе.\n\n[color=#D6720D]Season 8 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_spanish": "[color=#D6720D]S Tier[/color]\n\nCada controlador Beta Theta incluye un preset de fábrica llamado 'Éxito Futuro'.\nNadie ha terminado una canción con él, pero todos coinciden en que promete mucho.\n\n[color=#D6720D]Season 8 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#D6720D]S Tier[/color]\n\n每台 Beta Theta 控制器都预装了一个名为“未来热门单曲”的出厂预设。\n至今还没有人用它完成过作品，但所有人都认为前景光明。\n\n[color=#D6720D]Season 8 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "name_color": "D6720D",
+      "background_color": "3B2F1B",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1036small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1036large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "8"
+        },
+        {
+          "tag": "tier",
+          "value": "S"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_8;tier_S;type_item"
+    },
+    {
+      "itemdefid": 1037,
+      "type": "item",
+      "name": "Beta Theta - A",
+      "description_english": "[color=#CF3A3B]A Tier[/color]\n\nEvery Beta Theta controller comes with a factory preset called 'Future Hit'.\nNobody has ever finished a track with it, but everyone agrees it sounds promising.\n\n[color=#D6720D]Season 8 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#CF3A3B]A Tier[/color]\n\nКаждый контроллер Beta Theta поставляется с заводским пресетом «Будущий хит».\nНикто ещё не закончил с ним трек, но все согласны, что звучит многообещающе.\n\n[color=#D6720D]Season 8 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_spanish": "[color=#CF3A3B]A Tier[/color]\n\nCada controlador Beta Theta incluye un preset de fábrica llamado 'Éxito Futuro'.\nNadie ha terminado una canción con él, pero todos coinciden en que promete mucho.\n\n[color=#D6720D]Season 8 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#CF3A3B]A Tier[/color]\n\n每台 Beta Theta 控制器都预装了一个名为“未来热门单曲”的出厂预设。\n至今还没有人用它完成过作品，但所有人都认为前景光明。\n\n[color=#D6720D]Season 8 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "name_color": "CF3A3B",
+      "background_color": "3F1E25",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1037small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1037large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "8"
+        },
+        {
+          "tag": "tier",
+          "value": "A"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_8;tier_A;type_item"
+    },
+    {
+      "itemdefid": 1038,
+      "type": "item",
+      "name": "Beta Theta - B",
+      "description_english": "[color=#6B1FA4]B Tier[/color]\n\nEvery Beta Theta controller comes with a factory preset called 'Future Hit'.\nNobody has ever finished a track with it, but everyone agrees it sounds promising.\n\n[color=#D6720D]Season 8 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#6B1FA4]B Tier[/color]\n\nКаждый контроллер Beta Theta поставляется с заводским пресетом «Будущий хит».\nНикто ещё не закончил с ним трек, но все согласны, что звучит многообещающе.\n\n[color=#D6720D]Season 8 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_spanish": "[color=#6B1FA4]B Tier[/color]\n\nCada controlador Beta Theta incluye un preset de fábrica llamado 'Éxito Futuro'.\nNadie ha terminado una canción con él, pero todos coinciden en que promete mucho.\n\n[color=#D6720D]Season 8 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#6B1FA4]B Tier[/color]\n\n每台 Beta Theta 控制器都预装了一个名为“未来热门单曲”的出厂预设。\n至今还没有人用它完成过作品，但所有人都认为前景光明。\n\n[color=#D6720D]Season 8 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "name_color": "6B1FA4",
+      "background_color": "3A2133",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1038small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1038large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "8"
+        },
+        {
+          "tag": "tier",
+          "value": "B"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_8;tier_B;type_item"
+    },
+    {
+      "itemdefid": 1039,
+      "type": "item",
+      "name": "Beta Theta - C",
+      "description_english": "[color=#2D3EB2]C Tier[/color]\n\nEvery Beta Theta controller comes with a factory preset called 'Future Hit'.\nNobody has ever finished a track with it, but everyone agrees it sounds promising.\n\n[color=#D6720D]Season 8 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#2D3EB2]C Tier[/color]\n\nКаждый контроллер Beta Theta поставляется с заводским пресетом «Будущий хит».\nНикто ещё не закончил с ним трек, но все согласны, что звучит многообещающе.\n\n[color=#D6720D]Season 8 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_spanish": "[color=#2D3EB2]C Tier[/color]\n\nCada controlador Beta Theta incluye un preset de fábrica llamado 'Éxito Futuro'.\nNadie ha terminado una canción con él, pero todos coinciden en que promete mucho.\n\n[color=#D6720D]Season 8 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#2D3EB2]C Tier[/color]\n\n每台 Beta Theta 控制器都预装了一个名为“未来热门单曲”的出厂预设。\n至今还没有人用它完成过作品，但所有人都认为前景光明。\n\n[color=#D6720D]Season 8 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "name_color": "2D3EB2",
+      "background_color": "2D1E42",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1039small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1039large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "8"
+        },
+        {
+          "tag": "tier",
+          "value": "C"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_8;tier_C;type_item"
+    },
+    {
+      "itemdefid": 1040,
+      "type": "item",
+      "name": "Beta Theta - D",
+      "description_english": "[color=#8D97D4]D Tier[/color]\n\nEvery Beta Theta controller comes with a factory preset called 'Future Hit'.\nNobody has ever finished a track with it, but everyone agrees it sounds promising.\n\n[color=#D6720D]Season 8 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#8D97D4]D Tier[/color]\n\nКаждый контроллер Beta Theta поставляется с заводским пресетом «Будущий хит».\nНикто ещё не закончил с ним трек, но все согласны, что звучит многообещающе.\n\n[color=#D6720D]Season 8 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_spanish": "[color=#8D97D4]D Tier[/color]\n\nCada controlador Beta Theta incluye un preset de fábrica llamado 'Éxito Futuro'.\nNadie ha terminado una canción con él, pero todos coinciden en que promete mucho.\n\n[color=#D6720D]Season 8 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#8D97D4]D Tier[/color]\n\n每台 Beta Theta 控制器都预装了一个名为“未来热门单曲”的出厂预设。\n至今还没有人用它完成过作品，但所有人都认为前景光明。\n\n[color=#D6720D]Season 8 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "name_color": "8D97D4",
+      "background_color": "1C2A3E",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1040small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1040large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "8"
+        },
+        {
+          "tag": "tier",
+          "value": "D"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_8;tier_D;type_item"
+    }
   ]
 }
