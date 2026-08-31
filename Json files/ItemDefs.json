@@ -5,7 +5,7 @@
       "itemdefid": 1000,
       "type": "playtimegenerator",
       "name": "Playtime Drop",
-      "bundle": "7x20;8x40;1031x25;1032x50;1033x100;1034x200;1035x100;1036x50;1037x100;1038x200;1039x400;1040x800",
+      "bundle": "8x20;9x40;102x300;1036x25;1037x50;1038x100;1039x200;1040x100;1041x50;1042x100;1043x200;1044x400;1045x800",
       "drop_interval": 120,
       "use_drop_window": true,
       "drop_window": 120,
@@ -275,6 +275,60 @@
       "store_tags": "season_8;type_pack"
     },
     {
+      "itemdefid": 9,
+      "type": "item",
+      "name": "Funta - Pack",
+      "description_english": "[color=#8D97D4]Funta - Pack[/color]\n\nContains a set of three random stocks from the Funta collection\n\n[color=#8D97D4]Season 9 - Pack[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_schinese": "[color=#8D97D4]Funta - Pack[/color]\n\n包含来自 Funta 系列的三只随机股票\n\n[color=#8D97D4]Season 9 - Pack[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "description_russian": "[color=#8D97D4]Funta - Pack[/color]\n\nСодержит набор из трёх случайных акций из коллекции Funta\n\n[color=#8D97D4]Season 9 - Pack[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любые совпадения с реальными организациями случайны или сатиричны.[/i]",
+      "description_spanish": "[color=#8D97D4]Funta - Pack[/color]\n\nContiene un conjunto de tres acciones aleatorias de la colección Funta\n\n[color=#8D97D4]Season 9 - Pack[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "name_color": "8D97D4",
+      "background_color": "2C3E50",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/9small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/9large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "9"
+        },
+        {
+          "tag": "type",
+          "value": "pack"
+        }
+      ],
+      "store_tags": "season_9;type_pack"
+    },
+    {
+      "itemdefid": 10,
+      "type": "item",
+      "name": "Nvimia - Pack",
+      "description_english": "[color=#8D97D4]Nvimia - Pack[/color]\n\nContains a set of three random stocks from the Nvimia collection\n\n[color=#8D97D4]Season 10 - Pack[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_schinese": "[color=#8D97D4]Nvimia - Pack[/color]\n\n包含来自 Nvimia 系列的三只随机股票\n\n[color=#8D97D4]Season 10 - Pack[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "description_russian": "[color=#8D97D4]Nvimia - Pack[/color]\n\nСодержит набор из трёх случайных акций из коллекции Nvimia\n\n[color=#8D97D4]Season 10 - Pack[/color]\n\n[i]Все представленные компании и логотипы вымышлены. Любые совпадения с реальными организациями случайны или сатиричны.[/i]",
+      "description_spanish": "[color=#8D97D4]Nvimia - Pack[/color]\n\nContiene un conjunto de tres acciones aleatorias de la colección Nvimia\n\n[color=#8D97D4]Season 10 - Pack[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "name_color": "8D97D4",
+      "background_color": "2C3E50",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/10small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/10large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "10"
+        },
+        {
+          "tag": "type",
+          "value": "pack"
+        }
+      ],
+      "store_tags": "season_10;type_pack"
+    },
+    {
       "itemdefid": 101,
       "type": "item",
       "name": "Lunar New Year 2026 - Pack",
@@ -300,6 +354,33 @@
         }
       ],
       "store_tags": "season_lunar_year_2026;type_pack"
+    },
+    {
+      "itemdefid": 102,
+      "type": "item",
+      "name": "Summer 2026 - Pack",
+      "description_english": "[color=#FFD84D]Summer 202 - Pack[/color]\n\nContains a set of three random stocks from the Summer 202 collection\n\n[color=#FFD84D]Summer 202 - Pack[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#FFD84D]Summer 202 - Pack[/color]\n\nСодержит набор из трёх случайных акций из коллекции Summer 202\n\n[color=#FFD84D]Summer 202 - Pack[/color]\n\n[i]Все компании и логотипы вымышлены. Любые совпадения с реальными организациями случайны или сатиричны.[/i]",
+      "description_spanish": "[color=#FFD84D]Summer 202 - Pack[/color]\n\nContiene un conjunto de tres acciones aleatorias de la colección Summer 202\n\n[color=#FFD84D]Summer 202 - Pack[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#FFD84D]Summer 202 - Pack[/color]\n\n包含来自 Summer 202 系列的三只随机股票\n\n[color=#FFD84D]Summer 202 - Pack[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "name_color": "FFD84D",
+      "background_color": "5A1E1E",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/102small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/102large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "summer_2026"
+        },
+        {
+          "tag": "type",
+          "value": "pack"
+        }
+      ],
+      "store_tags": "season_summer_2026;type_pack"
     },
     {
       "itemdefid": 10101,
@@ -405,6 +486,111 @@
         }
       ],
       "store_tags": "season_lunar_year_2026;tier_EX;type_item"
+    },
+    {
+      "itemdefid": 10201,
+      "type": "item",
+      "name": "Summer 2026 - EX Item 1",
+      "name_english": "Popsicle",
+      "name_russian": "Фруктовый лёд",
+      "name_spanish": "Helado de hielo",
+      "name_schinese": "水果冰棒",
+      "description_english": "[color=#FFD84D]EX Tier[/color]\n\nCelebrate the end of summer with this exclusive collectible.\nLimited to the Summer 2026 event.\nSome say it brings luck. Others say it's just a clever way to say goodbye to summer right.\n\n[color=#FF6A00]Summer 2026 Item[/color]\n\n[i]All companies and logos presented are fictional. Good fortune not included.[/i]",
+      "description_russian": "[color=#FFD84D]EX Tier[/color]\n\nПраздничный коллекционный предмет в честь окончания лета.\nОграниченный и доступен только во время события Summer 2026.\nКто-то считает, что он приносит удачу. Другие — что это просто удачный способ попрощаться с летом.\n\n[color=#FF6A00]Summer 2026 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Удача в комплект не входит.[/i]",
+      "description_spanish": "[color=#FFD84D]EX Tier[/color]\n\nCelebra el final del verano con este objeto coleccionable exclusivo.\nLimitado al evento Summer 2026.\nAlgunos dicen que trae suerte. Otros que es solo una forma ingeniosa de despedir bien el verano.\n\n[color=#FF6A00]Summer 2026 Item[/color]\n\n[i]Todas las empresas y logotipos son ficticios. La buena fortuna no está incluida.[/i]",
+      "description_schinese": "[color=#FFD84D]EX Tier[/color]\n\n庆祝夏日结束的限量收藏物品。\n仅可在 Summer 2026 活动期间获得。\n有人说它会带来好运，也有人说这只是向夏日告别的巧妙方式。\n\n[color=#FF6A00]Summer 2026 Item[/color]\n\n[i]所有公司和标志均为虚构。好运不包含在内。[/i]",
+      "name_color": "FFD84D",
+      "background_color": "5A1E1E",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/10201small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/10201large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "summer_2026"
+        },
+        {
+          "tag": "tier",
+          "value": "EX"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_summer_2026;tier_EX;type_item"
+    },
+    {
+      "itemdefid": 10202,
+      "type": "item",
+      "name": "Summer 2026 - EX Item 2",
+      "name_english": "Ice Cream",
+      "name_russian": "Мороженое",
+      "name_spanish": "Helado",
+      "name_schinese": "冰淇淋",
+      "description_english": "[color=#FFD84D]EX Tier[/color]\n\nCelebrate the end of summer with this exclusive collectible.\nLimited to the Summer 2026 event.\nSome say it brings luck. Others say it's just a clever way to say goodbye to summer right.\n\n[color=#FF6A00]Summer 2026 Item[/color]\n\n[i]All companies and logos presented are fictional. Good fortune not included.[/i]",
+      "description_russian": "[color=#FFD84D]EX Tier[/color]\n\nПраздничный коллекционный предмет в честь окончания лета.\nОграниченный и доступен только во время события Summer 2026.\nКто-то считает, что он приносит удачу. Другие — что это просто удачный способ попрощаться с летом.\n\n[color=#FF6A00]Summer 2026 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Удача в комплект не входит.[/i]",
+      "description_spanish": "[color=#FFD84D]EX Tier[/color]\n\nCelebra el final del verano con este objeto coleccionable exclusivo.\nLimitado al evento Summer 2026.\nAlgunos dicen que trae suerte. Otros que es solo una forma ingeniosa de despedir bien el verano.\n\n[color=#FF6A00]Summer 2026 Item[/color]\n\n[i]Todas las empresas y logotipos son ficticios. La buena fortuna no está incluida.[/i]",
+      "description_schinese": "[color=#FFD84D]EX Tier[/color]\n\n庆祝夏日结束的限量收藏物品。\n仅可在 Summer 2026 活动期间获得。\n有人说它会带来好运，也有人说这只是向夏日告别的巧妙方式。\n\n[color=#FF6A00]Summer 2026 Item[/color]\n\n[i]所有公司和标志均为虚构。好运不包含在内。[/i]",
+      "name_color": "FFD84D",
+      "background_color": "5A1E1E",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/10202small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/10202large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "summer_2026"
+        },
+        {
+          "tag": "tier",
+          "value": "EX"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_summer_2026;tier_EX;type_item"
+    },
+    {
+      "itemdefid": 10203,
+      "type": "item",
+      "name": "Summer 2026 - EX Item 3",
+      "name_english": "Lifebuoy",
+      "name_russian": "Спасательный круг",
+      "name_spanish": "Salvavidas",
+      "name_schinese": "救生圈",
+      "description_english": "[color=#FFD84D]EX Tier[/color]\n\nCelebrate the end of summer with this exclusive collectible.\nLimited to the Summer 2026 event.\nSome say it brings luck. Others say it's just a clever way to say goodbye to summer right.\n\n[color=#FF6A00]Summer 2026 Item[/color]\n\n[i]All companies and logos presented are fictional. Good fortune not included.[/i]",
+      "description_russian": "[color=#FFD84D]EX Tier[/color]\n\nПраздничный коллекционный предмет в честь окончания лета.\nОграниченный и доступен только во время события Summer 2026.\nКто-то считает, что он приносит удачу. Другие — что это просто удачный способ попрощаться с летом.\n\n[color=#FF6A00]Summer 2026 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Удача в комплект не входит.[/i]",
+      "description_spanish": "[color=#FFD84D]EX Tier[/color]\n\nCelebra el final del verano con este objeto coleccionable exclusivo.\nLimitado al evento Summer 2026.\nAlgunos dicen que trae suerte. Otros que es solo una forma ingeniosa de despedir bien el verano.\n\n[color=#FF6A00]Summer 2026 Item[/color]\n\n[i]Todas las empresas y logotipos son ficticios. La buena fortuna no está incluida.[/i]",
+      "description_schinese": "[color=#FFD84D]EX Tier[/color]\n\n庆祝夏日结束的限量收藏物品。\n仅可在 Summer 2026 活动期间获得。\n有人说它会带来好运，也有人说这只是向夏日告别的巧妙方式。\n\n[color=#FF6A00]Summer 2026 Item[/color]\n\n[i]所有公司和标志均为虚构。好运不包含在内。[/i]",
+      "name_color": "FFD84D",
+      "background_color": "5A1E1E",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/10203small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/10203large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "summer_2026"
+        },
+        {
+          "tag": "tier",
+          "value": "EX"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_summer_2026;tier_EX;type_item"
     },
     {
       "itemdefid": 1001,
@@ -1645,6 +1831,316 @@
         }
       ],
       "store_tags": "season_8;tier_D;type_item"
+    },
+    {
+      "itemdefid": 1041,
+      "type": "item",
+      "name": "Funta - S",
+      "description_english": "[color=#D6720D]S Tier[/color]\n\nThe creators of Funta claim they managed to preserve the feeling of summer in a single can.\nJudging by the amount of sugar, they certainly took the task seriously.\n\n[color=#D6720D]Season 9 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#D6720D]S Tier[/color]\n\nСоздатели Funta утверждают, что смогли законсервировать летнее настроение в одной банке.\nСудя по количеству сахара, они действительно подошли к задаче серьёзно.\n\n[color=#D6720D]Season 9 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_spanish": "[color=#D6720D]S Tier[/color]\n\nLos creadores de Funta aseguran que lograron conservar el ambiente del verano en una sola lata.\nA juzgar por la cantidad de azúcar, se tomaron la tarea muy en serio.\n\n[color=#D6720D]Season 9 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#D6720D]S Tier[/color]\n\nFunta 的创作者声称，他们成功将夏日的感觉封存在了一罐饮料中。\n从其中的糖分含量来看，他们显然是非常认真地完成了这项任务。\n\n[color=#D6720D]Season 9 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "name_color": "D6720D",
+      "background_color": "3B2F1B",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1041small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1041large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "9"
+        },
+        {
+          "tag": "tier",
+          "value": "S"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_9;tier_S;type_item"
+    },
+    {
+      "itemdefid": 1042,
+      "type": "item",
+      "name": "Funta - A",
+      "description_english": "[color=#CF3A3B]A Tier[/color]\n\nThe creators of Funta claim they managed to preserve the feeling of summer in a single can.\nJudging by the amount of sugar, they certainly took the task seriously.\n\n[color=#D6720D]Season 9 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#CF3A3B]A Tier[/color]\n\nСоздатели Funta утверждают, что смогли законсервировать летнее настроение в одной банке.\nСудя по количеству сахара, они действительно подошли к задаче серьёзно.\n\n[color=#D6720D]Season 9 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_spanish": "[color=#CF3A3B]A Tier[/color]\n\nLos creadores de Funta aseguran que lograron conservar el ambiente del verano en una sola lata.\nA juzgar por la cantidad de azúcar, se tomaron la tarea muy en serio.\n\n[color=#D6720D]Season 9 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#CF3A3B]A Tier[/color]\n\nFunta 的创作者声称，他们成功将夏日的感觉封存在了一罐饮料中。\n从其中的糖分含量来看，他们显然是非常认真地完成了这项任务。\n\n[color=#D6720D]Season 9 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "name_color": "CF3A3B",
+      "background_color": "3F1E25",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1042small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1042large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "9"
+        },
+        {
+          "tag": "tier",
+          "value": "A"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_9;tier_A;type_item"
+    },
+    {
+      "itemdefid": 1043,
+      "type": "item",
+      "name": "Funta - B",
+      "description_english": "[color=#6B1FA4]B Tier[/color]\n\nThe creators of Funta claim they managed to preserve the feeling of summer in a single can.\nJudging by the amount of sugar, they certainly took the task seriously.\n\n[color=#D6720D]Season 9 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#6B1FA4]B Tier[/color]\n\nСоздатели Funta утверждают, что смогли законсервировать летнее настроение в одной банке.\nСудя по количеству сахара, они действительно подошли к задаче серьёзно.\n\n[color=#D6720D]Season 9 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_spanish": "[color=#6B1FA4]B Tier[/color]\n\nLos creadores de Funta aseguran que lograron conservar el ambiente del verano en una sola lata.\nA juzgar por la cantidad de azúcar, se tomaron la tarea muy en serio.\n\n[color=#D6720D]Season 9 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#6B1FA4]B Tier[/color]\n\nFunta 的创作者声称，他们成功将夏日的感觉封存在了一罐饮料中。\n从其中的糖分含量来看，他们显然是非常认真地完成了这项任务。\n\n[color=#D6720D]Season 9 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "name_color": "6B1FA4",
+      "background_color": "3A2133",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1043small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1043large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "9"
+        },
+        {
+          "tag": "tier",
+          "value": "B"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_9;tier_B;type_item"
+    },
+    {
+      "itemdefid": 1044,
+      "type": "item",
+      "name": "Funta - C",
+      "description_english": "[color=#2D3EB2]C Tier[/color]\n\nThe creators of Funta claim they managed to preserve the feeling of summer in a single can.\nJudging by the amount of sugar, they certainly took the task seriously.\n\n[color=#D6720D]Season 9 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#2D3EB2]C Tier[/color]\n\nСоздатели Funta утверждают, что смогли законсервировать летнее настроение в одной банке.\nСудя по количеству сахара, они действительно подошли к задаче серьёзно.\n\n[color=#D6720D]Season 9 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_spanish": "[color=#2D3EB2]C Tier[/color]\n\nLos creadores de Funta aseguran que lograron conservar el ambiente del verano en una sola lata.\nA juzgar por la cantidad de azúcar, se tomaron la tarea muy en serio.\n\n[color=#D6720D]Season 9 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#2D3EB2]C Tier[/color]\n\nFunta 的创作者声称，他们成功将夏日的感觉封存在了一罐饮料中。\n从其中的糖分含量来看，他们显然是非常认真地完成了这项任务。\n\n[color=#D6720D]Season 9 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "name_color": "2D3EB2",
+      "background_color": "2D1E42",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1044small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1044large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "9"
+        },
+        {
+          "tag": "tier",
+          "value": "C"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_9;tier_C;type_item"
+    },
+    {
+      "itemdefid": 1045,
+      "type": "item",
+      "name": "Funta - D",
+      "description_english": "[color=#8D97D4]D Tier[/color]\n\nThe creators of Funta claim they managed to preserve the feeling of summer in a single can.\nJudging by the amount of sugar, they certainly took the task seriously.\n\n[color=#D6720D]Season 9 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#8D97D4]D Tier[/color]\n\nСоздатели Funta утверждают, что смогли законсервировать летнее настроение в одной банке.\nСудя по количеству сахара, они действительно подошли к задаче серьёзно.\n\n[color=#D6720D]Season 9 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_spanish": "[color=#8D97D4]D Tier[/color]\n\nLos creadores de Funta aseguran que lograron conservar el ambiente del verano en una sola lata.\nA juzgar por la cantidad de azúcar, se tomaron la tarea muy en serio.\n\n[color=#D6720D]Season 9 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#8D97D4]D Tier[/color]\n\nFunta 的创作者声称，他们成功将夏日的感觉封存在了一罐饮料中。\n从其中的糖分含量来看，他们显然是非常认真地完成了这项任务。\n\n[color=#D6720D]Season 9 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "name_color": "8D97D4",
+      "background_color": "1C2A3E",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1045small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1045large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "9"
+        },
+        {
+          "tag": "tier",
+          "value": "D"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_9;tier_D;type_item"
+    },
+    {
+      "itemdefid": 1046,
+      "type": "item",
+      "name": "Nvimia - S",
+      "description_english": "[color=#D6720D]S Tier[/color]\n\nBought a new Nvimia? Congratulations, your computer is outdated again.\nBut don't worry: the next model is almost ready.\n\n[color=#D6720D]Season 10 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#D6720D]S Tier[/color]\n\nКупили новую Nvimia — поздравляем, теперь ваш компьютер снова устарел.\nНо не переживайте: следующая модель уже почти готова.\n\n[color=#D6720D]Season 10 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_spanish": "[color=#D6720D]S Tier[/color]\n\n¿Compraste una nueva Nvimia? Felicidades, tu ordenador ya está obsoleto otra vez.\nPero no te preocupes: el próximo modelo ya casi está listo.\n\n[color=#D6720D]Season 10 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#D6720D]S Tier[/color]\n\n买了一块新的 Nvimia？恭喜，你的电脑又过时了。\n不过别担心：下一款型号已经快准备好了。\n\n[color=#D6720D]Season 10 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "name_color": "D6720D",
+      "background_color": "3B2F1B",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1046small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1046large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "10"
+        },
+        {
+          "tag": "tier",
+          "value": "S"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_10;tier_S;type_item"
+    },
+    {
+      "itemdefid": 1047,
+      "type": "item",
+      "name": "Nvimia - A",
+      "description_english": "[color=#CF3A3B]A Tier[/color]\n\nBought a new Nvimia? Congratulations, your computer is outdated again.\nBut don't worry: the next model is almost ready.\n\n[color=#D6720D]Season 10 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#CF3A3B]A Tier[/color]\n\nКупили новую Nvimia — поздравляем, теперь ваш компьютер снова устарел.\nНо не переживайте: следующая модель уже почти готова.\n\n[color=#D6720D]Season 10 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_spanish": "[color=#CF3A3B]A Tier[/color]\n\n¿Compraste una nueva Nvimia? Felicidades, tu ordenador ya está obsoleto otra vez.\nPero no te preocupes: el próximo modelo ya casi está listo.\n\n[color=#D6720D]Season 10 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#CF3A3B]A Tier[/color]\n\n买了一块新的 Nvimia？恭喜，你的电脑又过时了。\n不过别担心：下一款型号已经快准备好了。\n\n[color=#D6720D]Season 10 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "name_color": "CF3A3B",
+      "background_color": "3F1E25",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1047small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1047large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "10"
+        },
+        {
+          "tag": "tier",
+          "value": "A"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_10;tier_A;type_item"
+    },
+    {
+      "itemdefid": 1048,
+      "type": "item",
+      "name": "Nvimia - B",
+      "description_english": "[color=#6B1FA4]B Tier[/color]\n\nBought a new Nvimia? Congratulations, your computer is outdated again.\nBut don't worry: the next model is almost ready.\n\n[color=#D6720D]Season 10 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#6B1FA4]B Tier[/color]\n\nКупили новую Nvimia — поздравляем, теперь ваш компьютер снова устарел.\nНо не переживайте: следующая модель уже почти готова.\n\n[color=#D6720D]Season 10 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_spanish": "[color=#6B1FA4]B Tier[/color]\n\n¿Compraste una nueva Nvimia? Felicidades, tu ordenador ya está obsoleto otra vez.\nPero no te preocupes: el próximo modelo ya casi está listo.\n\n[color=#D6720D]Season 10 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#6B1FA4]B Tier[/color]\n\n买了一块新的 Nvimia？恭喜，你的电脑又过时了。\n不过别担心：下一款型号已经快准备好了。\n\n[color=#D6720D]Season 10 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "name_color": "6B1FA4",
+      "background_color": "3A2133",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1048small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1048large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "10"
+        },
+        {
+          "tag": "tier",
+          "value": "B"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_10;tier_B;type_item"
+    },
+    {
+      "itemdefid": 1049,
+      "type": "item",
+      "name": "Nvimia - C",
+      "description_english": "[color=#2D3EB2]C Tier[/color]\n\nBought a new Nvimia? Congratulations, your computer is outdated again.\nBut don't worry: the next model is almost ready.\n\n[color=#D6720D]Season 10 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#2D3EB2]C Tier[/color]\n\nКупили новую Nvimia — поздравляем, теперь ваш компьютер снова устарел.\nНо не переживайте: следующая модель уже почти готова.\n\n[color=#D6720D]Season 10 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_spanish": "[color=#2D3EB2]C Tier[/color]\n\n¿Compraste una nueva Nvimia? Felicidades, tu ordenador ya está obsoleto otra vez.\nPero no te preocupes: el próximo modelo ya casi está listo.\n\n[color=#D6720D]Season 10 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#2D3EB2]C Tier[/color]\n\n买了一块新的 Nvimia？恭喜，你的电脑又过时了。\n不过别担心：下一款型号已经快准备好了。\n\n[color=#D6720D]Season 10 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "name_color": "2D3EB2",
+      "background_color": "2D1E42",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1049small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1049large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "10"
+        },
+        {
+          "tag": "tier",
+          "value": "C"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_10;tier_C;type_item"
+    },
+    {
+      "itemdefid": 1050,
+      "type": "item",
+      "name": "Nvimia - D",
+      "description_english": "[color=#8D97D4]D Tier[/color]\n\nBought a new Nvimia? Congratulations, your computer is outdated again.\nBut don't worry: the next model is almost ready.\n\n[color=#D6720D]Season 10 Item[/color]\n\n[i]All companies and logos presented are fictional. Any resemblance to real entities is coincidental or satirical.[/i]",
+      "description_russian": "[color=#8D97D4]D Tier[/color]\n\nКупили новую Nvimia — поздравляем, теперь ваш компьютер снова устарел.\nНо не переживайте: следующая модель уже почти готова.\n\n[color=#D6720D]Season 10 Item[/color]\n\n[i]Все компании и логотипы вымышлены. Любое сходство с реальными объектами случайно или сатирично.[/i]",
+      "description_spanish": "[color=#8D97D4]D Tier[/color]\n\n¿Compraste una nueva Nvimia? Felicidades, tu ordenador ya está obsoleto otra vez.\nPero no te preocupes: el próximo modelo ya casi está listo.\n\n[color=#D6720D]Season 10 Item[/color]\n\n[i]Todas las empresas y logotipos presentados son ficticios. Cualquier parecido con entidades reales es mera coincidencia o sátira.[/i]",
+      "description_schinese": "[color=#8D97D4]D Tier[/color]\n\n买了一块新的 Nvimia？恭喜，你的电脑又过时了。\n不过别担心：下一款型号已经快准备好了。\n\n[color=#D6720D]Season 10 Item[/color]\n\n[i]所有公司和标志均为虚构。与真实实体的任何相似纯属巧合或讽刺。[/i]",
+      "name_color": "8D97D4",
+      "background_color": "1C2A3E",
+      "auto_stack": true,
+      "icon_url": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1050small.png",
+      "icon_url_large": "https://raw.githubusercontent.com/envymydisease/github-steam-stocks-public/refs/heads/main/1050large.png",
+      "marketable": true,
+      "tradable": true,
+      "tags": [
+        {
+          "tag": "season",
+          "value": "10"
+        },
+        {
+          "tag": "tier",
+          "value": "D"
+        },
+        {
+          "tag": "type",
+          "value": "item"
+        }
+      ],
+      "store_tags": "season_10;tier_D;type_item"
     }
   ]
 }
